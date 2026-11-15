@@ -1,0 +1,10 @@
+# Python 3.10 recommended. Install a suitable PyTorch CUDA build separately if needed.
+numpy==1.24.4
+networkx==3.1
+torch==2.2.2
+stable-baselines3==2.4.1
+gymnasium==1.0.0
+matplotlib==3.5.3
+threadpoolctl==3.5.0
+cloudpickle==3.1.1
+seaborn==0.13.2

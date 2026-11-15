@@ -1,0 +1,5 @@
+# Python 3.11 is recommended. Install SWIG first (see README).
+numpy==2.0.1
+torch==2.4.1
+gymnasium[box2d]==1.1.1
+matplotlib==3.10.3

@@ -1,0 +1,1380 @@
+[
+  {
+    "timesteps": 1000000,
+    "episodes": 480,
+    "event_seeds": [
+      903000,
+      903001,
+      903002,
+      903003,
+      903004,
+      903005,
+      903006,
+      903007,
+      903008,
+      903009,
+      903010,
+      903011,
+      903012,
+      903013,
+      903014,
+      903015
+    ],
+    "success_rate": 1.0,
+    "mean_penalized_time_s": 163.83125,
+    "per_event_seed": [
+      {
+        "process_seed": 903000,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 112.6
+      },
+      {
+        "process_seed": 903001,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 161.83333333333334
+      },
+      {
+        "process_seed": 903002,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 150.53333333333333
+      },
+      {
+        "process_seed": 903003,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 159.76666666666668
+      },
+      {
+        "process_seed": 903004,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 190.3
+      },
+      {
+        "process_seed": 903005,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 124.96666666666667
+      },
+      {
+        "process_seed": 903006,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 204.9
+      },
+      {
+        "process_seed": 903007,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 137.23333333333332
+      },
+      {
+        "process_seed": 903008,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 136.8
+      },
+      {
+        "process_seed": 903009,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 110.0
+      },
+      {
+        "process_seed": 903010,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 225.86666666666667
+      },
+      {
+        "process_seed": 903011,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 94.73333333333333
+      },
+      {
+        "process_seed": 903012,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 159.23333333333332
+      },
+      {
+        "process_seed": 903013,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 310.3
+      },
+      {
+        "process_seed": 903014,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 120.23333333333333
+      },
+      {
+        "process_seed": 903015,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 222.0
+      }
+    ]
+  },
+  {
+    "timesteps": 1250000,
+    "episodes": 480,
+    "event_seeds": [
+      903000,
+      903001,
+      903002,
+      903003,
+      903004,
+      903005,
+      903006,
+      903007,
+      903008,
+      903009,
+      903010,
+      903011,
+      903012,
+      903013,
+      903014,
+      903015
+    ],
+    "success_rate": 1.0,
+    "mean_penalized_time_s": 164.425,
+    "per_event_seed": [
+      {
+        "process_seed": 903000,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 113.5
+      },
+      {
+        "process_seed": 903001,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 161.9
+      },
+      {
+        "process_seed": 903002,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 150.53333333333333
+      },
+      {
+        "process_seed": 903003,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 159.76666666666668
+      },
+      {
+        "process_seed": 903004,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 190.3
+      },
+      {
+        "process_seed": 903005,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 124.96666666666667
+      },
+      {
+        "process_seed": 903006,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 206.46666666666667
+      },
+      {
+        "process_seed": 903007,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 134.1
+      },
+      {
+        "process_seed": 903008,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 136.86666666666667
+      },
+      {
+        "process_seed": 903009,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 113.73333333333333
+      },
+      {
+        "process_seed": 903010,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 225.86666666666667
+      },
+      {
+        "process_seed": 903011,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 94.73333333333333
+      },
+      {
+        "process_seed": 903012,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 159.16666666666666
+      },
+      {
+        "process_seed": 903013,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 310.3
+      },
+      {
+        "process_seed": 903014,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 121.73333333333333
+      },
+      {
+        "process_seed": 903015,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 226.86666666666667
+      }
+    ]
+  },
+  {
+    "timesteps": 1500000,
+    "episodes": 480,
+    "event_seeds": [
+      903000,
+      903001,
+      903002,
+      903003,
+      903004,
+      903005,
+      903006,
+      903007,
+      903008,
+      903009,
+      903010,
+      903011,
+      903012,
+      903013,
+      903014,
+      903015
+    ],
+    "success_rate": 1.0,
+    "mean_penalized_time_s": 164.74375,
+    "per_event_seed": [
+      {
+        "process_seed": 903000,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 99.96666666666667
+      },
+      {
+        "process_seed": 903001,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 161.9
+      },
+      {
+        "process_seed": 903002,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 156.86666666666667
+      },
+      {
+        "process_seed": 903003,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 157.56666666666666
+      },
+      {
+        "process_seed": 903004,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 190.3
+      },
+      {
+        "process_seed": 903005,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 124.96666666666667
+      },
+      {
+        "process_seed": 903006,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 206.46666666666667
+      },
+      {
+        "process_seed": 903007,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 137.23333333333332
+      },
+      {
+        "process_seed": 903008,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 136.86666666666667
+      },
+      {
+        "process_seed": 903009,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 113.06666666666666
+      },
+      {
+        "process_seed": 903010,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 223.13333333333333
+      },
+      {
+        "process_seed": 903011,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 94.73333333333333
+      },
+      {
+        "process_seed": 903012,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 180.3
+      },
+      {
+        "process_seed": 903013,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 310.3
+      },
+      {
+        "process_seed": 903014,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 120.23333333333333
+      },
+      {
+        "process_seed": 903015,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 222.0
+      }
+    ]
+  },
+  {
+    "timesteps": 1750000,
+    "episodes": 480,
+    "event_seeds": [
+      903000,
+      903001,
+      903002,
+      903003,
+      903004,
+      903005,
+      903006,
+      903007,
+      903008,
+      903009,
+      903010,
+      903011,
+      903012,
+      903013,
+      903014,
+      903015
+    ],
+    "success_rate": 1.0,
+    "mean_penalized_time_s": 164.44791666666666,
+    "per_event_seed": [
+      {
+        "process_seed": 903000,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 86.7
+      },
+      {
+        "process_seed": 903001,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 161.9
+      },
+      {
+        "process_seed": 903002,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 156.86666666666667
+      },
+      {
+        "process_seed": 903003,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 157.56666666666666
+      },
+      {
+        "process_seed": 903004,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 190.3
+      },
+      {
+        "process_seed": 903005,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 124.96666666666667
+      },
+      {
+        "process_seed": 903006,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 206.46666666666667
+      },
+      {
+        "process_seed": 903007,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 137.23333333333332
+      },
+      {
+        "process_seed": 903008,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 136.86666666666667
+      },
+      {
+        "process_seed": 903009,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 113.06666666666666
+      },
+      {
+        "process_seed": 903010,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 223.13333333333333
+      },
+      {
+        "process_seed": 903011,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 103.26666666666667
+      },
+      {
+        "process_seed": 903012,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 180.3
+      },
+      {
+        "process_seed": 903013,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 310.3
+      },
+      {
+        "process_seed": 903014,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 120.23333333333333
+      },
+      {
+        "process_seed": 903015,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 222.0
+      }
+    ]
+  },
+  {
+    "timesteps": 2000000,
+    "episodes": 480,
+    "event_seeds": [
+      903000,
+      903001,
+      903002,
+      903003,
+      903004,
+      903005,
+      903006,
+      903007,
+      903008,
+      903009,
+      903010,
+      903011,
+      903012,
+      903013,
+      903014,
+      903015
+    ],
+    "success_rate": 1.0,
+    "mean_penalized_time_s": 164.44791666666666,
+    "per_event_seed": [
+      {
+        "process_seed": 903000,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 86.7
+      },
+      {
+        "process_seed": 903001,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 161.9
+      },
+      {
+        "process_seed": 903002,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 156.86666666666667
+      },
+      {
+        "process_seed": 903003,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 157.56666666666666
+      },
+      {
+        "process_seed": 903004,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 190.3
+      },
+      {
+        "process_seed": 903005,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 124.96666666666667
+      },
+      {
+        "process_seed": 903006,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 206.46666666666667
+      },
+      {
+        "process_seed": 903007,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 137.23333333333332
+      },
+      {
+        "process_seed": 903008,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 136.86666666666667
+      },
+      {
+        "process_seed": 903009,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 113.06666666666666
+      },
+      {
+        "process_seed": 903010,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 223.13333333333333
+      },
+      {
+        "process_seed": 903011,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 103.26666666666667
+      },
+      {
+        "process_seed": 903012,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 180.3
+      },
+      {
+        "process_seed": 903013,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 310.3
+      },
+      {
+        "process_seed": 903014,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 120.23333333333333
+      },
+      {
+        "process_seed": 903015,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 222.0
+      }
+    ]
+  },
+  {
+    "timesteps": 2250000,
+    "episodes": 480,
+    "event_seeds": [
+      903000,
+      903001,
+      903002,
+      903003,
+      903004,
+      903005,
+      903006,
+      903007,
+      903008,
+      903009,
+      903010,
+      903011,
+      903012,
+      903013,
+      903014,
+      903015
+    ],
+    "success_rate": 1.0,
+    "mean_penalized_time_s": 165.92291666666668,
+    "per_event_seed": [
+      {
+        "process_seed": 903000,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 98.0
+      },
+      {
+        "process_seed": 903001,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 163.93333333333334
+      },
+      {
+        "process_seed": 903002,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 156.86666666666667
+      },
+      {
+        "process_seed": 903003,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 157.6
+      },
+      {
+        "process_seed": 903004,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 190.3
+      },
+      {
+        "process_seed": 903005,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 124.96666666666667
+      },
+      {
+        "process_seed": 903006,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 204.9
+      },
+      {
+        "process_seed": 903007,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 136.23333333333332
+      },
+      {
+        "process_seed": 903008,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 136.8
+      },
+      {
+        "process_seed": 903009,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 109.33333333333333
+      },
+      {
+        "process_seed": 903010,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 223.13333333333333
+      },
+      {
+        "process_seed": 903011,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 119.86666666666666
+      },
+      {
+        "process_seed": 903012,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 180.3
+      },
+      {
+        "process_seed": 903013,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 310.3
+      },
+      {
+        "process_seed": 903014,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 120.23333333333333
+      },
+      {
+        "process_seed": 903015,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 222.0
+      }
+    ]
+  },
+  {
+    "timesteps": 2500000,
+    "episodes": 480,
+    "event_seeds": [
+      903000,
+      903001,
+      903002,
+      903003,
+      903004,
+      903005,
+      903006,
+      903007,
+      903008,
+      903009,
+      903010,
+      903011,
+      903012,
+      903013,
+      903014,
+      903015
+    ],
+    "success_rate": 1.0,
+    "mean_penalized_time_s": 166.09583333333333,
+    "per_event_seed": [
+      {
+        "process_seed": 903000,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 98.0
+      },
+      {
+        "process_seed": 903001,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 163.93333333333334
+      },
+      {
+        "process_seed": 903002,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 156.86666666666667
+      },
+      {
+        "process_seed": 903003,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 157.6
+      },
+      {
+        "process_seed": 903004,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 190.33333333333334
+      },
+      {
+        "process_seed": 903005,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 138.53333333333333
+      },
+      {
+        "process_seed": 903006,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 207.5
+      },
+      {
+        "process_seed": 903007,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 136.23333333333332
+      },
+      {
+        "process_seed": 903008,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 136.83333333333334
+      },
+      {
+        "process_seed": 903009,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 84.0
+      },
+      {
+        "process_seed": 903010,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 223.13333333333333
+      },
+      {
+        "process_seed": 903011,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 123.46666666666667
+      },
+      {
+        "process_seed": 903012,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 186.23333333333332
+      },
+      {
+        "process_seed": 903013,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 310.3
+      },
+      {
+        "process_seed": 903014,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 122.56666666666666
+      },
+      {
+        "process_seed": 903015,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 222.0
+      }
+    ]
+  },
+  {
+    "timesteps": 2750000,
+    "episodes": 480,
+    "event_seeds": [
+      903000,
+      903001,
+      903002,
+      903003,
+      903004,
+      903005,
+      903006,
+      903007,
+      903008,
+      903009,
+      903010,
+      903011,
+      903012,
+      903013,
+      903014,
+      903015
+    ],
+    "success_rate": 1.0,
+    "mean_penalized_time_s": 164.1125,
+    "per_event_seed": [
+      {
+        "process_seed": 903000,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 86.7
+      },
+      {
+        "process_seed": 903001,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 161.83333333333334
+      },
+      {
+        "process_seed": 903002,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 156.86666666666667
+      },
+      {
+        "process_seed": 903003,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 157.56666666666666
+      },
+      {
+        "process_seed": 903004,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 190.3
+      },
+      {
+        "process_seed": 903005,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 124.96666666666667
+      },
+      {
+        "process_seed": 903006,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 204.9
+      },
+      {
+        "process_seed": 903007,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 137.23333333333332
+      },
+      {
+        "process_seed": 903008,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 136.8
+      },
+      {
+        "process_seed": 903009,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 109.33333333333333
+      },
+      {
+        "process_seed": 903010,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 223.13333333333333
+      },
+      {
+        "process_seed": 903011,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 103.26666666666667
+      },
+      {
+        "process_seed": 903012,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 180.36666666666667
+      },
+      {
+        "process_seed": 903013,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 310.3
+      },
+      {
+        "process_seed": 903014,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 120.23333333333333
+      },
+      {
+        "process_seed": 903015,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 222.0
+      }
+    ]
+  },
+  {
+    "timesteps": 3000000,
+    "episodes": 480,
+    "event_seeds": [
+      903000,
+      903001,
+      903002,
+      903003,
+      903004,
+      903005,
+      903006,
+      903007,
+      903008,
+      903009,
+      903010,
+      903011,
+      903012,
+      903013,
+      903014,
+      903015
+    ],
+    "success_rate": 1.0,
+    "mean_penalized_time_s": 166.39791666666667,
+    "per_event_seed": [
+      {
+        "process_seed": 903000,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 97.53333333333333
+      },
+      {
+        "process_seed": 903001,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 164.66666666666666
+      },
+      {
+        "process_seed": 903002,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 156.9
+      },
+      {
+        "process_seed": 903003,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 157.63333333333333
+      },
+      {
+        "process_seed": 903004,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 200.0
+      },
+      {
+        "process_seed": 903005,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 126.63333333333334
+      },
+      {
+        "process_seed": 903006,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 204.93333333333334
+      },
+      {
+        "process_seed": 903007,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 129.46666666666667
+      },
+      {
+        "process_seed": 903008,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 136.83333333333334
+      },
+      {
+        "process_seed": 903009,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 109.36666666666666
+      },
+      {
+        "process_seed": 903010,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 217.66666666666666
+      },
+      {
+        "process_seed": 903011,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 119.46666666666667
+      },
+      {
+        "process_seed": 903012,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 183.73333333333332
+      },
+      {
+        "process_seed": 903013,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 310.43333333333334
+      },
+      {
+        "process_seed": 903014,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 131.56666666666666
+      },
+      {
+        "process_seed": 903015,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 215.53333333333333
+      }
+    ]
+  },
+  {
+    "timesteps": 3250000,
+    "episodes": 480,
+    "event_seeds": [
+      903000,
+      903001,
+      903002,
+      903003,
+      903004,
+      903005,
+      903006,
+      903007,
+      903008,
+      903009,
+      903010,
+      903011,
+      903012,
+      903013,
+      903014,
+      903015
+    ],
+    "success_rate": 1.0,
+    "mean_penalized_time_s": 166.88958333333332,
+    "per_event_seed": [
+      {
+        "process_seed": 903000,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 99.56666666666666
+      },
+      {
+        "process_seed": 903001,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 163.93333333333334
+      },
+      {
+        "process_seed": 903002,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 156.86666666666667
+      },
+      {
+        "process_seed": 903003,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 157.6
+      },
+      {
+        "process_seed": 903004,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 197.3
+      },
+      {
+        "process_seed": 903005,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 138.06666666666666
+      },
+      {
+        "process_seed": 903006,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 207.5
+      },
+      {
+        "process_seed": 903007,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 129.46666666666667
+      },
+      {
+        "process_seed": 903008,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 136.83333333333334
+      },
+      {
+        "process_seed": 903009,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 84.0
+      },
+      {
+        "process_seed": 903010,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 217.63333333333333
+      },
+      {
+        "process_seed": 903011,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 123.46666666666667
+      },
+      {
+        "process_seed": 903012,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 189.76666666666668
+      },
+      {
+        "process_seed": 903013,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 318.8333333333333
+      },
+      {
+        "process_seed": 903014,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 133.86666666666667
+      },
+      {
+        "process_seed": 903015,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 215.53333333333333
+      }
+    ]
+  },
+  {
+    "timesteps": 3500000,
+    "episodes": 480,
+    "event_seeds": [
+      903000,
+      903001,
+      903002,
+      903003,
+      903004,
+      903005,
+      903006,
+      903007,
+      903008,
+      903009,
+      903010,
+      903011,
+      903012,
+      903013,
+      903014,
+      903015
+    ],
+    "success_rate": 1.0,
+    "mean_penalized_time_s": 166.67708333333334,
+    "per_event_seed": [
+      {
+        "process_seed": 903000,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 88.26666666666667
+      },
+      {
+        "process_seed": 903001,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 161.66666666666666
+      },
+      {
+        "process_seed": 903002,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 156.9
+      },
+      {
+        "process_seed": 903003,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 154.13333333333333
+      },
+      {
+        "process_seed": 903004,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 202.5
+      },
+      {
+        "process_seed": 903005,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 124.53333333333333
+      },
+      {
+        "process_seed": 903006,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 206.5
+      },
+      {
+        "process_seed": 903007,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 122.16666666666667
+      },
+      {
+        "process_seed": 903008,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 152.4
+      },
+      {
+        "process_seed": 903009,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 113.13333333333334
+      },
+      {
+        "process_seed": 903010,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 217.66666666666666
+      },
+      {
+        "process_seed": 903011,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 111.56666666666666
+      },
+      {
+        "process_seed": 903012,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 200.03333333333333
+      },
+      {
+        "process_seed": 903013,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 308.26666666666665
+      },
+      {
+        "process_seed": 903014,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 131.56666666666666
+      },
+      {
+        "process_seed": 903015,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 215.53333333333333
+      }
+    ]
+  },
+  {
+    "timesteps": 3750000,
+    "episodes": 480,
+    "event_seeds": [
+      903000,
+      903001,
+      903002,
+      903003,
+      903004,
+      903005,
+      903006,
+      903007,
+      903008,
+      903009,
+      903010,
+      903011,
+      903012,
+      903013,
+      903014,
+      903015
+    ],
+    "success_rate": 1.0,
+    "mean_penalized_time_s": 167.05208333333334,
+    "per_event_seed": [
+      {
+        "process_seed": 903000,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 99.56666666666666
+      },
+      {
+        "process_seed": 903001,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 164.0
+      },
+      {
+        "process_seed": 903002,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 156.86666666666667
+      },
+      {
+        "process_seed": 903003,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 157.6
+      },
+      {
+        "process_seed": 903004,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 197.26666666666668
+      },
+      {
+        "process_seed": 903005,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 124.5
+      },
+      {
+        "process_seed": 903006,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 206.46666666666667
+      },
+      {
+        "process_seed": 903007,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 129.46666666666667
+      },
+      {
+        "process_seed": 903008,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 136.86666666666667
+      },
+      {
+        "process_seed": 903009,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 113.06666666666666
+      },
+      {
+        "process_seed": 903010,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 217.63333333333333
+      },
+      {
+        "process_seed": 903011,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 119.86666666666666
+      },
+      {
+        "process_seed": 903012,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 183.76666666666668
+      },
+      {
+        "process_seed": 903013,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 318.8333333333333
+      },
+      {
+        "process_seed": 903014,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 131.53333333333333
+      },
+      {
+        "process_seed": 903015,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 215.53333333333333
+      }
+    ]
+  },
+  {
+    "timesteps": 4000000,
+    "episodes": 480,
+    "event_seeds": [
+      903000,
+      903001,
+      903002,
+      903003,
+      903004,
+      903005,
+      903006,
+      903007,
+      903008,
+      903009,
+      903010,
+      903011,
+      903012,
+      903013,
+      903014,
+      903015
+    ],
+    "success_rate": 1.0,
+    "mean_penalized_time_s": 165.64791666666667,
+    "per_event_seed": [
+      {
+        "process_seed": 903000,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 99.56666666666666
+      },
+      {
+        "process_seed": 903001,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 164.0
+      },
+      {
+        "process_seed": 903002,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 156.86666666666667
+      },
+      {
+        "process_seed": 903003,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 157.6
+      },
+      {
+        "process_seed": 903004,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 210.1
+      },
+      {
+        "process_seed": 903005,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 117.23333333333333
+      },
+      {
+        "process_seed": 903006,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 206.46666666666667
+      },
+      {
+        "process_seed": 903007,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 123.2
+      },
+      {
+        "process_seed": 903008,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 140.13333333333333
+      },
+      {
+        "process_seed": 903009,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 113.06666666666666
+      },
+      {
+        "process_seed": 903010,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 217.63333333333333
+      },
+      {
+        "process_seed": 903011,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 102.6
+      },
+      {
+        "process_seed": 903012,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 173.26666666666668
+      },
+      {
+        "process_seed": 903013,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 318.96666666666664
+      },
+      {
+        "process_seed": 903014,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 134.1
+      },
+      {
+        "process_seed": 903015,
+        "success_rate": 1.0,
+        "mean_penalized_time_s": 215.56666666666666
+      }
+    ]
+  }
+]

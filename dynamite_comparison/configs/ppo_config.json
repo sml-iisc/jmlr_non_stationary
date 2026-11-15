@@ -1,0 +1,16 @@
+{
+  "n_steps": 512,
+  "batch_size": 256,
+  "n_epochs": 8,
+  "learning_rate": 0.0002,
+  "lr_schedule": "linear",
+  "ent_coef": 0.02,
+  "entropy_schedule": "linear",
+  "gamma": 0.995,
+  "gae_lambda": 0.9,
+  "clip_range": 0.3,
+  "vf_coef": 0.5,
+  "max_grad_norm": 0.5,
+  "target_kl": 0.015,
+  "id": "lr_2e4"
+}

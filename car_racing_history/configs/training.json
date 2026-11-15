@@ -1,0 +1,7 @@
+{
+  "iterations": 1000,
+  "num_envs": 10,
+  "eval_envs": 0,
+  "device": "cpu",
+  "threads": 2
+}

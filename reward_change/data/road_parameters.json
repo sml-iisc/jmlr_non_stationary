@@ -1,0 +1,342 @@
+{
+  "0": {
+    "travel_time_s": 1,
+    "block_duration_s": 99,
+    "base_probability": 0.0007536798113506055
+  },
+  "1": {
+    "travel_time_s": 1,
+    "block_duration_s": 87,
+    "base_probability": 0.000671076353790378
+  },
+  "2": {
+    "travel_time_s": 1,
+    "block_duration_s": 87,
+    "base_probability": 0.00073064822933337
+  },
+  "3": {
+    "travel_time_s": 1,
+    "block_duration_s": 84,
+    "base_probability": 0.0007362799304382348
+  },
+  "4": {
+    "travel_time_s": 1,
+    "block_duration_s": 77,
+    "base_probability": 0.0007565381121867041
+  },
+  "5": {
+    "travel_time_s": 1,
+    "block_duration_s": 87,
+    "base_probability": 0.0006783267526198347
+  },
+  "6": {
+    "travel_time_s": 1,
+    "block_duration_s": 72,
+    "base_probability": 0.0006962205831162188
+  },
+  "7": {
+    "travel_time_s": 1,
+    "block_duration_s": 68,
+    "base_probability": 0.0007597937245564216
+  },
+  "8": {
+    "travel_time_s": 1,
+    "block_duration_s": 81,
+    "base_probability": 0.0007628682817445941
+  },
+  "9": {
+    "travel_time_s": 1,
+    "block_duration_s": 67,
+    "base_probability": 0.000762704180629509
+  },
+  "10": {
+    "travel_time_s": 1,
+    "block_duration_s": 66,
+    "base_probability": 0.0006682672777499326
+  },
+  "11": {
+    "travel_time_s": 1,
+    "block_duration_s": 95,
+    "base_probability": 0.000752413394696822
+  },
+  "12": {
+    "travel_time_s": 1,
+    "block_duration_s": 74,
+    "base_probability": 0.0006647298657428394
+  },
+  "13": {
+    "travel_time_s": 1,
+    "block_duration_s": 72,
+    "base_probability": 0.0006845811757866964
+  },
+  "14": {
+    "travel_time_s": 1,
+    "block_duration_s": 97,
+    "base_probability": 0.0006519608962920355
+  },
+  "15": {
+    "travel_time_s": 1,
+    "block_duration_s": 97,
+    "base_probability": 0.0007533690702228518
+  },
+  "16": {
+    "travel_time_s": 1,
+    "block_duration_s": 67,
+    "base_probability": 0.0006435081022002382
+  },
+  "17": {
+    "travel_time_s": 1,
+    "block_duration_s": 83,
+    "base_probability": 0.0007329715072457608
+  },
+  "18": {
+    "travel_time_s": 1,
+    "block_duration_s": 93,
+    "base_probability": 0.0005839698990029962
+  },
+  "19": {
+    "travel_time_s": 1,
+    "block_duration_s": 97,
+    "base_probability": 0.0007076963865148465
+  },
+  "20": {
+    "travel_time_s": 1,
+    "block_duration_s": 87,
+    "base_probability": 0.0006320844103000167
+  },
+  "21": {
+    "travel_time_s": 1,
+    "block_duration_s": 72,
+    "base_probability": 0.0006476084375136102
+  },
+  "22": {
+    "travel_time_s": 1,
+    "block_duration_s": 85,
+    "base_probability": 0.0006997259072842645
+  },
+  "23": {
+    "travel_time_s": 1,
+    "block_duration_s": 94,
+    "base_probability": 0.0006390985302493813
+  },
+  "24": {
+    "travel_time_s": 1,
+    "block_duration_s": 90,
+    "base_probability": 0.000665031909512121
+  },
+  "25": {
+    "travel_time_s": 1,
+    "block_duration_s": 89,
+    "base_probability": 0.000675963194793993
+  },
+  "28": {
+    "travel_time_s": 1,
+    "block_duration_s": 92,
+    "base_probability": 0.0006888648976371523
+  },
+  "29": {
+    "travel_time_s": 1,
+    "block_duration_s": 97,
+    "base_probability": 0.0005910693951012659
+  },
+  "30": {
+    "travel_time_s": 1,
+    "block_duration_s": 87,
+    "base_probability": 0.0006510350435989164
+  },
+  "31": {
+    "travel_time_s": 1,
+    "block_duration_s": 94,
+    "base_probability": 0.0007431878678232124
+  },
+  "32": {
+    "travel_time_s": 1,
+    "block_duration_s": 74,
+    "base_probability": 0.0006383015874516787
+  },
+  "33": {
+    "travel_time_s": 1,
+    "block_duration_s": 69,
+    "base_probability": 0.0007012208399917567
+  },
+  "34": {
+    "travel_time_s": 1,
+    "block_duration_s": 94,
+    "base_probability": 0.0006517949971185665
+  },
+  "35": {
+    "travel_time_s": 1,
+    "block_duration_s": 71,
+    "base_probability": 0.0006522252235183762
+  },
+  "36": {
+    "travel_time_s": 1,
+    "block_duration_s": 66,
+    "base_probability": 0.000606087084834911
+  },
+  "37": {
+    "travel_time_s": 1,
+    "block_duration_s": 96,
+    "base_probability": 0.000645352064649395
+  },
+  "38": {
+    "travel_time_s": 1,
+    "block_duration_s": 75,
+    "base_probability": 0.0007653446805067128
+  },
+  "41": {
+    "travel_time_s": 1,
+    "block_duration_s": 93,
+    "base_probability": 0.0007463625662454506
+  },
+  "42": {
+    "travel_time_s": 1,
+    "block_duration_s": 78,
+    "base_probability": 0.0007343319685339289
+  },
+  "43": {
+    "travel_time_s": 1,
+    "block_duration_s": 66,
+    "base_probability": 0.0007053765972385227
+  },
+  "44": {
+    "travel_time_s": 1,
+    "block_duration_s": 84,
+    "base_probability": 0.0006720230283146714
+  },
+  "45": {
+    "travel_time_s": 1,
+    "block_duration_s": 66,
+    "base_probability": 0.0007194567422035289
+  },
+  "46": {
+    "travel_time_s": 1,
+    "block_duration_s": 82,
+    "base_probability": 0.0007653023693867419
+  },
+  "47": {
+    "travel_time_s": 1,
+    "block_duration_s": 70,
+    "base_probability": 0.0006031309241115303
+  },
+  "48": {
+    "travel_time_s": 1,
+    "block_duration_s": 99,
+    "base_probability": 0.0007196545405430116
+  },
+  "49": {
+    "travel_time_s": 1,
+    "block_duration_s": 96,
+    "base_probability": 0.0006006360797951202
+  },
+  "50": {
+    "travel_time_s": 1,
+    "block_duration_s": 68,
+    "base_probability": 0.000692990038408841
+  },
+  "51": {
+    "travel_time_s": 1,
+    "block_duration_s": 75,
+    "base_probability": 0.0006452641207143726
+  },
+  "52": {
+    "travel_time_s": 1,
+    "block_duration_s": 77,
+    "base_probability": 0.0006456183182042494
+  },
+  "58": {
+    "travel_time_s": 1,
+    "block_duration_s": 66,
+    "base_probability": 0.0007397467047998976
+  },
+  "59": {
+    "travel_time_s": 1,
+    "block_duration_s": 88,
+    "base_probability": 0.0005932342144005056
+  },
+  "60": {
+    "travel_time_s": 1,
+    "block_duration_s": 77,
+    "base_probability": 0.0006679636996087524
+  },
+  "61": {
+    "travel_time_s": 1,
+    "block_duration_s": 96,
+    "base_probability": 0.0007212504810292519
+  },
+  "62": {
+    "travel_time_s": 1,
+    "block_duration_s": 94,
+    "base_probability": 0.0007181747006692213
+  },
+  "65": {
+    "travel_time_s": 1,
+    "block_duration_s": 83,
+    "base_probability": 0.0007098676283095683
+  },
+  "66": {
+    "travel_time_s": 1,
+    "block_duration_s": 95,
+    "base_probability": 0.000710632553769789
+  },
+  "67": {
+    "travel_time_s": 1,
+    "block_duration_s": 97,
+    "base_probability": 0.0006116360650322023
+  },
+  "68": {
+    "travel_time_s": 1,
+    "block_duration_s": 85,
+    "base_probability": 0.0007298363168396234
+  },
+  "69": {
+    "travel_time_s": 1,
+    "block_duration_s": 77,
+    "base_probability": 0.0007662556028293952
+  },
+  "73": {
+    "travel_time_s": 1,
+    "block_duration_s": 82,
+    "base_probability": 0.0006510909766591536
+  },
+  "74": {
+    "travel_time_s": 1,
+    "block_duration_s": 94,
+    "base_probability": 0.0006754193208538305
+  },
+  "75": {
+    "travel_time_s": 1,
+    "block_duration_s": 92,
+    "base_probability": 0.0006801372572702026
+  },
+  "76": {
+    "travel_time_s": 1,
+    "block_duration_s": 92,
+    "base_probability": 0.0007643404161828894
+  },
+  "77": {
+    "travel_time_s": 1,
+    "block_duration_s": 72,
+    "base_probability": 0.0007639046516210184
+  },
+  "78": {
+    "travel_time_s": 1,
+    "block_duration_s": 73,
+    "base_probability": 0.0006838901538595288
+  },
+  "79": {
+    "travel_time_s": 1,
+    "block_duration_s": 86,
+    "base_probability": 0.000729736192991458
+  },
+  "80": {
+    "travel_time_s": 1,
+    "block_duration_s": 97,
+    "base_probability": 0.0006057408148487502
+  },
+  "81": {
+    "travel_time_s": 1,
+    "block_duration_s": 81,
+    "base_probability": 0.0007405161869339308
+  }
+}

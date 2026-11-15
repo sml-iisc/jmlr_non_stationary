@@ -1,0 +1,19 @@
+{
+  "id": "f0020943",
+  "name": "focused_0020943",
+  "road_parameter_seed": 12020943,
+  "temporal_decay_s": 15.140145233801379,
+  "nominal_branching_ratio": 0.9358376853427314,
+  "self_fraction": 0.9050713052647943,
+  "base_probability": 0.0006905753064605172,
+  "hop_decay_scale": 1.1781901626995277,
+  "probability_cap": 0.913179744990121,
+  "travel_mean_s": 1.0108552267155355,
+  "block_mean_s": 83.25395546984073,
+  "travel_heterogeneity": 0.14335327737117007,
+  "block_heterogeneity": 0.2058969835918767,
+  "base_heterogeneity": 0.13713024815580185,
+  "proposal_region": "prior_informed_focus",
+  "self_boost": 0.05413644632682445,
+  "neighbor_boost": 0.005678118571999621
+}

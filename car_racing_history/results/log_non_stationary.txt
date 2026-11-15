@@ -1,0 +1,2501 @@
+(10, 4, 96, 96, 3)
+Starting episode - 1
+Collected 8192 samples in 28.49 seconds
+Starting episode - 2
+Collected 8192 samples in 29.47 seconds
+Starting episode - 3
+Collected 8192 samples in 28.53 seconds
+Starting episode - 4
+Collected 8192 samples in 34.37 seconds
+Starting episode - 5
+Collected 8192 samples in 34.96 seconds
+Starting episode - 6
+Collected 8192 samples in 25.34 seconds
+Starting episode - 7
+Collected 8192 samples in 31.55 seconds
+Starting episode - 8
+Collected 8192 samples in 31.57 seconds
+Starting episode - 9
+Collected 8192 samples in 35.11 seconds
+Starting episode - 10
+Collected 8192 samples in 27.87 seconds
+[Episode 10] Eval...
+Greedy Eval: -160.95 ± 41.53
+Stochastic Eval: -107.21 ± 52.90
+Saving model...
+Model saved.
+Starting episode - 11
+Collected 8192 samples in 33.41 seconds
+Starting episode - 12
+Collected 8192 samples in 34.64 seconds
+Starting episode - 13
+Collected 8192 samples in 30.78 seconds
+Starting episode - 14
+Collected 8192 samples in 33.21 seconds
+Starting episode - 15
+Collected 8192 samples in 31.07 seconds
+Starting episode - 16
+Collected 8192 samples in 31.51 seconds
+Starting episode - 17
+Collected 8192 samples in 27.92 seconds
+Starting episode - 18
+Collected 8192 samples in 35.25 seconds
+Starting episode - 19
+Collected 8192 samples in 28.76 seconds
+Starting episode - 20
+Collected 8192 samples in 28.62 seconds
+[Episode 20] Eval...
+Greedy Eval: -74.69 ± 120.09
+Stochastic Eval: -46.30 ± 72.08
+Saving model...
+Model saved.
+Starting episode - 21
+Collected 8192 samples in 29.54 seconds
+Starting episode - 22
+Collected 8192 samples in 31.71 seconds
+Starting episode - 23
+Collected 8192 samples in 29.33 seconds
+Starting episode - 24
+Collected 8192 samples in 31.45 seconds
+Starting episode - 25
+Collected 8192 samples in 32.10 seconds
+Starting episode - 26
+Collected 8192 samples in 34.05 seconds
+Starting episode - 27
+Collected 8192 samples in 34.81 seconds
+Starting episode - 28
+Collected 8192 samples in 28.00 seconds
+Starting episode - 29
+Collected 8192 samples in 30.15 seconds
+Starting episode - 30
+Collected 8192 samples in 28.48 seconds
+[Episode 30] Eval...
+Greedy Eval: 178.77 ± 331.47
+Stochastic Eval: 87.03 ± 228.61
+Saving model...
+Model saved.
+Starting episode - 31
+Collected 8192 samples in 33.33 seconds
+Starting episode - 32
+Collected 8192 samples in 29.98 seconds
+Starting episode - 33
+Collected 8192 samples in 33.12 seconds
+Starting episode - 34
+Collected 8192 samples in 36.83 seconds
+Starting episode - 35
+Collected 8192 samples in 29.93 seconds
+Starting episode - 36
+Collected 8192 samples in 28.12 seconds
+Starting episode - 37
+Collected 8192 samples in 28.03 seconds
+Starting episode - 38
+Collected 8192 samples in 30.48 seconds
+Starting episode - 39
+Collected 8192 samples in 27.69 seconds
+Starting episode - 40
+Collected 8192 samples in 27.90 seconds
+[Episode 40] Eval...
+Greedy Eval: 249.38 ± 318.17
+Stochastic Eval: 287.53 ± 191.07
+Saving model...
+Model saved.
+Starting episode - 41
+Collected 8192 samples in 30.56 seconds
+Starting episode - 42
+Collected 8192 samples in 30.25 seconds
+Starting episode - 43
+Collected 8192 samples in 28.60 seconds
+Starting episode - 44
+Collected 8192 samples in 31.16 seconds
+Starting episode - 45
+Collected 8192 samples in 28.55 seconds
+Starting episode - 46
+Collected 8192 samples in 29.45 seconds
+Starting episode - 47
+Collected 8192 samples in 28.67 seconds
+Starting episode - 48
+Collected 8192 samples in 29.43 seconds
+Starting episode - 49
+Collected 8192 samples in 31.86 seconds
+Starting episode - 50
+Collected 8192 samples in 29.07 seconds
+[Episode 50] Eval...
+Greedy Eval: 241.85 ± 296.98
+Stochastic Eval: 373.34 ± 208.77
+Saving model...
+Model saved.
+Starting episode - 51
+Collected 8192 samples in 31.62 seconds
+Starting episode - 52
+Collected 8192 samples in 28.25 seconds
+Starting episode - 53
+Collected 8192 samples in 29.04 seconds
+Starting episode - 54
+Collected 8192 samples in 28.47 seconds
+Starting episode - 55
+Collected 8192 samples in 32.71 seconds
+Starting episode - 56
+Collected 8192 samples in 32.83 seconds
+Starting episode - 57
+Collected 8192 samples in 36.34 seconds
+Starting episode - 58
+Collected 8192 samples in 28.41 seconds
+Starting episode - 59
+Collected 8192 samples in 29.35 seconds
+Starting episode - 60
+Collected 8192 samples in 28.43 seconds
+[Episode 60] Eval...
+Greedy Eval: 106.49 ± 289.69
+Stochastic Eval: 382.15 ± 250.89
+Saving model...
+Model saved.
+Starting episode - 61
+Collected 8192 samples in 31.81 seconds
+Starting episode - 62
+Collected 8192 samples in 32.64 seconds
+Starting episode - 63
+Collected 8192 samples in 28.35 seconds
+Starting episode - 64
+Collected 8192 samples in 29.40 seconds
+Starting episode - 65
+Collected 8192 samples in 34.23 seconds
+Starting episode - 66
+Collected 8192 samples in 30.95 seconds
+Starting episode - 67
+Collected 8192 samples in 31.46 seconds
+Starting episode - 68
+Collected 8192 samples in 28.23 seconds
+Starting episode - 69
+Collected 8192 samples in 30.04 seconds
+Starting episode - 70
+Collected 8192 samples in 29.89 seconds
+[Episode 70] Eval...
+Greedy Eval: 357.71 ± 243.90
+Stochastic Eval: 526.36 ± 171.92
+Saving model...
+Model saved.
+Starting episode - 71
+Collected 8192 samples in 34.37 seconds
+Starting episode - 72
+Collected 8192 samples in 36.31 seconds
+Starting episode - 73
+Collected 8192 samples in 28.94 seconds
+Starting episode - 74
+Collected 8192 samples in 31.03 seconds
+Starting episode - 75
+Collected 8192 samples in 29.14 seconds
+Starting episode - 76
+Collected 8192 samples in 31.53 seconds
+Starting episode - 77
+Collected 8192 samples in 36.73 seconds
+Starting episode - 78
+Collected 8192 samples in 28.68 seconds
+Starting episode - 79
+Collected 8192 samples in 29.21 seconds
+Starting episode - 80
+Collected 8192 samples in 31.61 seconds
+[Episode 80] Eval...
+Greedy Eval: 221.67 ± 277.71
+Stochastic Eval: 568.56 ± 237.53
+Saving model...
+Model saved.
+Starting episode - 81
+Collected 8192 samples in 35.63 seconds
+Starting episode - 82
+Collected 8192 samples in 29.18 seconds
+Starting episode - 83
+Collected 8192 samples in 29.12 seconds
+Starting episode - 84
+Collected 8192 samples in 28.54 seconds
+Starting episode - 85
+Collected 8192 samples in 28.49 seconds
+Starting episode - 86
+Collected 8192 samples in 33.26 seconds
+Starting episode - 87
+Collected 8192 samples in 28.66 seconds
+Starting episode - 88
+Collected 8192 samples in 30.75 seconds
+Starting episode - 89
+Collected 8192 samples in 30.47 seconds
+Starting episode - 90
+Collected 8192 samples in 29.79 seconds
+[Episode 90] Eval...
+Greedy Eval: 545.63 ± 234.97
+Stochastic Eval: 618.95 ± 156.19
+Saving model...
+Model saved.
+Starting episode - 91
+Collected 8192 samples in 31.94 seconds
+Starting episode - 92
+Collected 8192 samples in 32.97 seconds
+Starting episode - 93
+Collected 8192 samples in 36.43 seconds
+Starting episode - 94
+Collected 8192 samples in 36.54 seconds
+Starting episode - 95
+Collected 8192 samples in 28.57 seconds
+Starting episode - 96
+Collected 8192 samples in 28.24 seconds
+Starting episode - 97
+Collected 8192 samples in 28.70 seconds
+Starting episode - 98
+Collected 8192 samples in 28.34 seconds
+Starting episode - 99
+Collected 8192 samples in 34.00 seconds
+Starting episode - 100
+Collected 8192 samples in 28.57 seconds
+[Episode 100] Eval...
+Greedy Eval: 444.74 ± 294.45
+Stochastic Eval: 491.89 ± 258.75
+Saving model...
+Model saved.
+Starting episode - 101
+Collected 8192 samples in 28.76 seconds
+Starting episode - 102
+Collected 8192 samples in 31.18 seconds
+Starting episode - 103
+Collected 8192 samples in 30.96 seconds
+Starting episode - 104
+Collected 8192 samples in 30.11 seconds
+Starting episode - 105
+Collected 8192 samples in 28.95 seconds
+Starting episode - 106
+Collected 8192 samples in 29.26 seconds
+Starting episode - 107
+Collected 8192 samples in 29.22 seconds
+Starting episode - 108
+Collected 8192 samples in 29.20 seconds
+Starting episode - 109
+Collected 8192 samples in 29.85 seconds
+Starting episode - 110
+Collected 8192 samples in 29.90 seconds
+[Episode 110] Eval...
+Greedy Eval: 345.43 ± 295.65
+Stochastic Eval: 601.93 ± 204.72
+Saving model...
+Model saved.
+Starting episode - 111
+Collected 8192 samples in 28.96 seconds
+Starting episode - 112
+Collected 8192 samples in 29.36 seconds
+Starting episode - 113
+Collected 8192 samples in 28.76 seconds
+Starting episode - 114
+Collected 8192 samples in 29.31 seconds
+Starting episode - 115
+Collected 8192 samples in 28.71 seconds
+Starting episode - 116
+Collected 8192 samples in 29.25 seconds
+Starting episode - 117
+Collected 8192 samples in 29.51 seconds
+Starting episode - 118
+Collected 8192 samples in 29.40 seconds
+Starting episode - 119
+Collected 8192 samples in 36.54 seconds
+Starting episode - 120
+Collected 8192 samples in 35.63 seconds
+[Episode 120] Eval...
+Greedy Eval: 465.25 ± 174.12
+Stochastic Eval: 732.84 ± 81.62
+Saving model...
+Model saved.
+Starting episode - 121
+Collected 8192 samples in 35.37 seconds
+Starting episode - 122
+Collected 8192 samples in 33.01 seconds
+Starting episode - 123
+Collected 8192 samples in 34.30 seconds
+Starting episode - 124
+Collected 8192 samples in 28.83 seconds
+Starting episode - 125
+Collected 8192 samples in 31.05 seconds
+Starting episode - 126
+Collected 8192 samples in 29.96 seconds
+Starting episode - 127
+Collected 8192 samples in 31.15 seconds
+Starting episode - 128
+Collected 8192 samples in 29.30 seconds
+Starting episode - 129
+Collected 8192 samples in 29.63 seconds
+Starting episode - 130
+Collected 8192 samples in 29.26 seconds
+[Episode 130] Eval...
+Greedy Eval: 670.64 ± 147.70
+Stochastic Eval: 657.35 ± 83.35
+Saving model...
+Model saved.
+Starting episode - 131
+Collected 8192 samples in 29.09 seconds
+Starting episode - 132
+Collected 8192 samples in 31.94 seconds
+Starting episode - 133
+Collected 8192 samples in 28.86 seconds
+Starting episode - 134
+Collected 8192 samples in 29.14 seconds
+Starting episode - 135
+Collected 8192 samples in 36.23 seconds
+Starting episode - 136
+Collected 8192 samples in 31.85 seconds
+Starting episode - 137
+Collected 8192 samples in 35.44 seconds
+Starting episode - 138
+Collected 8192 samples in 29.41 seconds
+Starting episode - 139
+Collected 8192 samples in 29.85 seconds
+Starting episode - 140
+Collected 8192 samples in 29.71 seconds
+[Episode 140] Eval...
+Greedy Eval: 579.90 ± 180.99
+Stochastic Eval: 615.42 ± 236.46
+Saving model...
+Model saved.
+Starting episode - 141
+Collected 8192 samples in 36.86 seconds
+Starting episode - 142
+Collected 8192 samples in 36.08 seconds
+Starting episode - 143
+Collected 8192 samples in 28.54 seconds
+Starting episode - 144
+Collected 8192 samples in 29.88 seconds
+Starting episode - 145
+Collected 8192 samples in 35.79 seconds
+Starting episode - 146
+Collected 8192 samples in 36.14 seconds
+Starting episode - 147
+Collected 8192 samples in 35.74 seconds
+Starting episode - 148
+Collected 8192 samples in 29.13 seconds
+Starting episode - 149
+Collected 8192 samples in 30.74 seconds
+Starting episode - 150
+Collected 8192 samples in 28.80 seconds
+[Episode 150] Eval...
+Greedy Eval: 709.05 ± 194.93
+Stochastic Eval: 693.16 ± 123.17
+Saving model...
+Model saved.
+Starting episode - 151
+Collected 8192 samples in 28.63 seconds
+Starting episode - 152
+Collected 8192 samples in 29.27 seconds
+Starting episode - 153
+Collected 8192 samples in 29.31 seconds
+Starting episode - 154
+Collected 8192 samples in 28.72 seconds
+Starting episode - 155
+Collected 8192 samples in 28.33 seconds
+Starting episode - 156
+Collected 8192 samples in 28.72 seconds
+Starting episode - 157
+Collected 8192 samples in 28.40 seconds
+Starting episode - 158
+Collected 8192 samples in 35.73 seconds
+Starting episode - 159
+Collected 8192 samples in 30.30 seconds
+Starting episode - 160
+Collected 8192 samples in 29.44 seconds
+[Episode 160] Eval...
+Greedy Eval: 735.74 ± 74.98
+Stochastic Eval: 580.66 ± 121.98
+Saving model...
+Model saved.
+Starting episode - 161
+Collected 8192 samples in 29.57 seconds
+Starting episode - 162
+Collected 8192 samples in 28.95 seconds
+Starting episode - 163
+Collected 8192 samples in 28.59 seconds
+Starting episode - 164
+Collected 8192 samples in 29.31 seconds
+Starting episode - 165
+Collected 8192 samples in 29.74 seconds
+Starting episode - 166
+Collected 8192 samples in 33.46 seconds
+Starting episode - 167
+Collected 8192 samples in 29.18 seconds
+Starting episode - 168
+Collected 8192 samples in 29.06 seconds
+Starting episode - 169
+Collected 8192 samples in 30.40 seconds
+Starting episode - 170
+Collected 8192 samples in 29.45 seconds
+[Episode 170] Eval...
+Greedy Eval: 608.53 ± 166.74
+Stochastic Eval: 510.40 ± 250.80
+Saving model...
+Model saved.
+Starting episode - 171
+Collected 8192 samples in 29.78 seconds
+Starting episode - 172
+Collected 8192 samples in 28.96 seconds
+Starting episode - 173
+Collected 8192 samples in 28.88 seconds
+Starting episode - 174
+Collected 8192 samples in 29.67 seconds
+Starting episode - 175
+Collected 8192 samples in 29.17 seconds
+Starting episode - 176
+Collected 8192 samples in 29.45 seconds
+Starting episode - 177
+Collected 8192 samples in 28.53 seconds
+Starting episode - 178
+Collected 8192 samples in 29.20 seconds
+Starting episode - 179
+Collected 8192 samples in 29.35 seconds
+Starting episode - 180
+Collected 8192 samples in 28.64 seconds
+[Episode 180] Eval...
+Greedy Eval: 708.70 ± 74.99
+Stochastic Eval: 606.02 ± 44.29
+Saving model...
+Model saved.
+Starting episode - 181
+Collected 8192 samples in 33.21 seconds
+Starting episode - 182
+Collected 8192 samples in 32.89 seconds
+Starting episode - 183
+Collected 8192 samples in 28.60 seconds
+Starting episode - 184
+Collected 8192 samples in 29.70 seconds
+Starting episode - 185
+Collected 8192 samples in 29.52 seconds
+Starting episode - 186
+Collected 8192 samples in 28.80 seconds
+Starting episode - 187
+Collected 8192 samples in 29.32 seconds
+Starting episode - 188
+Collected 8192 samples in 29.81 seconds
+Starting episode - 189
+Collected 8192 samples in 29.83 seconds
+Starting episode - 190
+Collected 8192 samples in 30.70 seconds
+[Episode 190] Eval...
+Greedy Eval: 534.37 ± 252.61
+Stochastic Eval: 618.46 ± 124.20
+Saving model...
+Model saved.
+Starting episode - 191
+Collected 8192 samples in 28.65 seconds
+Starting episode - 192
+Collected 8192 samples in 30.40 seconds
+Starting episode - 193
+Collected 8192 samples in 29.14 seconds
+Starting episode - 194
+Collected 8192 samples in 34.08 seconds
+Starting episode - 195
+Collected 8192 samples in 31.81 seconds
+Starting episode - 196
+Collected 8192 samples in 30.78 seconds
+Starting episode - 197
+Collected 8192 samples in 29.87 seconds
+Starting episode - 198
+Collected 8192 samples in 33.10 seconds
+Starting episode - 199
+Collected 8192 samples in 28.65 seconds
+Starting episode - 200
+Collected 8192 samples in 29.95 seconds
+[Episode 200] Eval...
+Greedy Eval: 636.14 ± 154.40
+Stochastic Eval: 696.20 ± 71.09
+Saving model...
+Model saved.
+Starting episode - 201
+Collected 8192 samples in 28.88 seconds
+Starting episode - 202
+Collected 8192 samples in 31.95 seconds
+Starting episode - 203
+Collected 8192 samples in 36.06 seconds
+Starting episode - 204
+Collected 8192 samples in 29.43 seconds
+Starting episode - 205
+Collected 8192 samples in 31.38 seconds
+Starting episode - 206
+Collected 8192 samples in 29.00 seconds
+Starting episode - 207
+Collected 8192 samples in 34.84 seconds
+Starting episode - 208
+Collected 8192 samples in 29.47 seconds
+Starting episode - 209
+Collected 8192 samples in 28.99 seconds
+Starting episode - 210
+Collected 8192 samples in 31.15 seconds
+[Episode 210] Eval...
+Greedy Eval: 748.42 ± 67.15
+Stochastic Eval: 668.13 ± 35.92
+Saving model...
+Model saved.
+Starting episode - 211
+Collected 8192 samples in 28.50 seconds
+Starting episode - 212
+Collected 8192 samples in 28.57 seconds
+Starting episode - 213
+Collected 8192 samples in 28.90 seconds
+Starting episode - 214
+Collected 8192 samples in 28.91 seconds
+Starting episode - 215
+Collected 8192 samples in 31.14 seconds
+Starting episode - 216
+Collected 8192 samples in 29.44 seconds
+Starting episode - 217
+Collected 8192 samples in 30.03 seconds
+Starting episode - 218
+Collected 8192 samples in 28.63 seconds
+Starting episode - 219
+Collected 8192 samples in 30.71 seconds
+Starting episode - 220
+Collected 8192 samples in 29.07 seconds
+[Episode 220] Eval...
+Greedy Eval: 665.50 ± 80.24
+Stochastic Eval: 665.90 ± 64.35
+Saving model...
+Model saved.
+Starting episode - 221
+Collected 8192 samples in 28.59 seconds
+Starting episode - 222
+Collected 8192 samples in 28.98 seconds
+Starting episode - 223
+Collected 8192 samples in 28.56 seconds
+Starting episode - 224
+Collected 8192 samples in 33.20 seconds
+Starting episode - 225
+Collected 8192 samples in 29.56 seconds
+Starting episode - 226
+Collected 8192 samples in 29.45 seconds
+Starting episode - 227
+Collected 8192 samples in 28.74 seconds
+Starting episode - 228
+Collected 8192 samples in 28.44 seconds
+Starting episode - 229
+Collected 8192 samples in 28.79 seconds
+Starting episode - 230
+Collected 8192 samples in 29.23 seconds
+[Episode 230] Eval...
+Greedy Eval: 742.67 ± 75.51
+Stochastic Eval: 667.36 ± 50.81
+Saving model...
+Model saved.
+Starting episode - 231
+Collected 8192 samples in 31.69 seconds
+Starting episode - 232
+Collected 8192 samples in 29.21 seconds
+Starting episode - 233
+Collected 8192 samples in 28.89 seconds
+Starting episode - 234
+Collected 8192 samples in 28.34 seconds
+Starting episode - 235
+Collected 8192 samples in 29.04 seconds
+Starting episode - 236
+Collected 8192 samples in 30.62 seconds
+Starting episode - 237
+Collected 8192 samples in 29.68 seconds
+Starting episode - 238
+Collected 8192 samples in 28.70 seconds
+Starting episode - 239
+Collected 8192 samples in 29.84 seconds
+Starting episode - 240
+Collected 8192 samples in 34.82 seconds
+[Episode 240] Eval...
+Greedy Eval: 678.88 ± 98.43
+Stochastic Eval: 724.04 ± 64.24
+Saving model...
+Model saved.
+Starting episode - 241
+Collected 8192 samples in 36.67 seconds
+Starting episode - 242
+Collected 8192 samples in 28.97 seconds
+Starting episode - 243
+Collected 8192 samples in 29.17 seconds
+Starting episode - 244
+Collected 8192 samples in 29.04 seconds
+Starting episode - 245
+Collected 8192 samples in 30.30 seconds
+Starting episode - 246
+Collected 8192 samples in 35.10 seconds
+Starting episode - 247
+Collected 8192 samples in 30.14 seconds
+Starting episode - 248
+Collected 8192 samples in 31.01 seconds
+Starting episode - 249
+Collected 8192 samples in 34.08 seconds
+Starting episode - 250
+Collected 8192 samples in 30.18 seconds
+[Episode 250] Eval...
+Greedy Eval: 742.62 ± 83.48
+Stochastic Eval: 697.78 ± 61.64
+Saving model...
+Model saved.
+Starting episode - 251
+Collected 8192 samples in 33.78 seconds
+Starting episode - 252
+Collected 8192 samples in 29.07 seconds
+Starting episode - 253
+Collected 8192 samples in 28.66 seconds
+Starting episode - 254
+Collected 8192 samples in 31.40 seconds
+Starting episode - 255
+Collected 8192 samples in 29.77 seconds
+Starting episode - 256
+Collected 8192 samples in 30.20 seconds
+Starting episode - 257
+Collected 8192 samples in 31.40 seconds
+Starting episode - 258
+Collected 8192 samples in 31.08 seconds
+Starting episode - 259
+Collected 8192 samples in 28.47 seconds
+Starting episode - 260
+Collected 8192 samples in 28.54 seconds
+[Episode 260] Eval...
+Greedy Eval: 769.02 ± 83.83
+Stochastic Eval: 676.84 ± 222.90
+Saving model...
+Model saved.
+Starting episode - 261
+Collected 8192 samples in 31.70 seconds
+Starting episode - 262
+Collected 8192 samples in 33.38 seconds
+Starting episode - 263
+Collected 8192 samples in 31.55 seconds
+Starting episode - 264
+Collected 8192 samples in 30.65 seconds
+Starting episode - 265
+Collected 8192 samples in 28.93 seconds
+Starting episode - 266
+Collected 8192 samples in 31.36 seconds
+Starting episode - 267
+Collected 8192 samples in 29.08 seconds
+Starting episode - 268
+Collected 8192 samples in 33.39 seconds
+Starting episode - 269
+Collected 8192 samples in 28.84 seconds
+Starting episode - 270
+Collected 8192 samples in 31.86 seconds
+[Episode 270] Eval...
+Greedy Eval: 617.03 ± 193.13
+Stochastic Eval: 727.31 ± 76.90
+Saving model...
+Model saved.
+Starting episode - 271
+Collected 8192 samples in 28.80 seconds
+Starting episode - 272
+Collected 8192 samples in 28.91 seconds
+Starting episode - 273
+Collected 8192 samples in 36.51 seconds
+Starting episode - 274
+Collected 8192 samples in 28.67 seconds
+Starting episode - 275
+Collected 8192 samples in 29.05 seconds
+Starting episode - 276
+Collected 8192 samples in 28.79 seconds
+Starting episode - 277
+Collected 8192 samples in 29.51 seconds
+Starting episode - 278
+Collected 8192 samples in 35.86 seconds
+Starting episode - 279
+Collected 8192 samples in 34.32 seconds
+Starting episode - 280
+Collected 8192 samples in 33.94 seconds
+[Episode 280] Eval...
+Greedy Eval: 494.48 ± 165.47
+Stochastic Eval: 773.01 ± 89.28
+Saving model...
+Model saved.
+Starting episode - 281
+Collected 8192 samples in 29.13 seconds
+Starting episode - 282
+Collected 8192 samples in 28.94 seconds
+Starting episode - 283
+Collected 8192 samples in 28.90 seconds
+Starting episode - 284
+Collected 8192 samples in 29.55 seconds
+Starting episode - 285
+Collected 8192 samples in 28.77 seconds
+Starting episode - 286
+Collected 8192 samples in 30.15 seconds
+Starting episode - 287
+Collected 8192 samples in 29.39 seconds
+Starting episode - 288
+Collected 8192 samples in 30.71 seconds
+Starting episode - 289
+Collected 8192 samples in 30.40 seconds
+Starting episode - 290
+Collected 8192 samples in 28.99 seconds
+[Episode 290] Eval...
+Greedy Eval: 684.47 ± 214.84
+Stochastic Eval: 621.53 ± 229.18
+Saving model...
+Model saved.
+Starting episode - 291
+Collected 8192 samples in 31.65 seconds
+Starting episode - 292
+Collected 8192 samples in 31.38 seconds
+Starting episode - 293
+Collected 8192 samples in 32.84 seconds
+Starting episode - 294
+Collected 8192 samples in 31.43 seconds
+Starting episode - 295
+Collected 8192 samples in 36.29 seconds
+Starting episode - 296
+Collected 8192 samples in 32.68 seconds
+Starting episode - 297
+Collected 8192 samples in 34.57 seconds
+Starting episode - 298
+Collected 8192 samples in 34.72 seconds
+Starting episode - 299
+Collected 8192 samples in 34.89 seconds
+Starting episode - 300
+Collected 8192 samples in 36.14 seconds
+[Episode 300] Eval...
+Greedy Eval: 726.95 ± 94.15
+Stochastic Eval: 724.66 ± 107.97
+Saving model...
+Model saved.
+Starting episode - 301
+Collected 8192 samples in 30.88 seconds
+Starting episode - 302
+Collected 8192 samples in 30.32 seconds
+Starting episode - 303
+Collected 8192 samples in 36.28 seconds
+Starting episode - 304
+Collected 8192 samples in 34.53 seconds
+Starting episode - 305
+Collected 8192 samples in 31.30 seconds
+Starting episode - 306
+Collected 8192 samples in 32.91 seconds
+Starting episode - 307
+Collected 8192 samples in 33.85 seconds
+Starting episode - 308
+Collected 8192 samples in 37.19 seconds
+Starting episode - 309
+Collected 8192 samples in 30.21 seconds
+Starting episode - 310
+Collected 8192 samples in 30.83 seconds
+[Episode 310] Eval...
+Greedy Eval: 598.16 ± 285.99
+Stochastic Eval: 654.10 ± 162.04
+Saving model...
+Model saved.
+Starting episode - 311
+Collected 8192 samples in 35.43 seconds
+Starting episode - 312
+Collected 8192 samples in 33.57 seconds
+Starting episode - 313
+Collected 8192 samples in 32.85 seconds
+Starting episode - 314
+Collected 8192 samples in 29.93 seconds
+Starting episode - 315
+Collected 8192 samples in 30.68 seconds
+Starting episode - 316
+Collected 8192 samples in 31.77 seconds
+Starting episode - 317
+Collected 8192 samples in 30.92 seconds
+Starting episode - 318
+Collected 8192 samples in 34.21 seconds
+Starting episode - 319
+Collected 8192 samples in 35.06 seconds
+Starting episode - 320
+Collected 8192 samples in 33.97 seconds
+[Episode 320] Eval...
+Greedy Eval: 651.04 ± 137.65
+Stochastic Eval: 685.45 ± 140.50
+Saving model...
+Model saved.
+Starting episode - 321
+Collected 8192 samples in 29.70 seconds
+Starting episode - 322
+Collected 8192 samples in 30.13 seconds
+Starting episode - 323
+Collected 8192 samples in 29.41 seconds
+Starting episode - 324
+Collected 8192 samples in 30.57 seconds
+Starting episode - 325
+Collected 8192 samples in 30.94 seconds
+Starting episode - 326
+Collected 8192 samples in 29.93 seconds
+Starting episode - 327
+Collected 8192 samples in 29.67 seconds
+Starting episode - 328
+Collected 8192 samples in 29.29 seconds
+Starting episode - 329
+Collected 8192 samples in 29.81 seconds
+Starting episode - 330
+Collected 8192 samples in 29.49 seconds
+[Episode 330] Eval...
+Greedy Eval: 673.24 ± 58.54
+Stochastic Eval: 730.05 ± 70.36
+Saving model...
+Model saved.
+Starting episode - 331
+Collected 8192 samples in 35.35 seconds
+Starting episode - 332
+Collected 8192 samples in 34.67 seconds
+Starting episode - 333
+Collected 8192 samples in 29.96 seconds
+Starting episode - 334
+Collected 8192 samples in 32.42 seconds
+Starting episode - 335
+Collected 8192 samples in 31.11 seconds
+Starting episode - 336
+Collected 8192 samples in 29.67 seconds
+Starting episode - 337
+Collected 8192 samples in 29.60 seconds
+Starting episode - 338
+Collected 8192 samples in 37.12 seconds
+Starting episode - 339
+Collected 8192 samples in 36.71 seconds
+Starting episode - 340
+Collected 8192 samples in 31.58 seconds
+[Episode 340] Eval...
+Greedy Eval: 740.70 ± 96.98
+Stochastic Eval: 666.70 ± 120.51
+Saving model...
+Model saved.
+Starting episode - 341
+Collected 8192 samples in 35.30 seconds
+Starting episode - 342
+Collected 8192 samples in 30.02 seconds
+Starting episode - 343
+Collected 8192 samples in 35.73 seconds
+Starting episode - 344
+Collected 8192 samples in 34.41 seconds
+Starting episode - 345
+Collected 8192 samples in 35.79 seconds
+Starting episode - 346
+Collected 8192 samples in 36.50 seconds
+Starting episode - 347
+Collected 8192 samples in 29.36 seconds
+Starting episode - 348
+Collected 8192 samples in 31.07 seconds
+Starting episode - 349
+Collected 8192 samples in 30.96 seconds
+Starting episode - 350
+Collected 8192 samples in 33.36 seconds
+[Episode 350] Eval...
+Greedy Eval: 718.06 ± 165.95
+Stochastic Eval: 787.33 ± 46.24
+Saving model...
+Model saved.
+Starting episode - 351
+Collected 8192 samples in 29.08 seconds
+Starting episode - 352
+Collected 8192 samples in 35.06 seconds
+Starting episode - 353
+Collected 8192 samples in 37.17 seconds
+Starting episode - 354
+Collected 8192 samples in 29.44 seconds
+Starting episode - 355
+Collected 8192 samples in 31.83 seconds
+Starting episode - 356
+Collected 8192 samples in 30.63 seconds
+Starting episode - 357
+Collected 8192 samples in 32.38 seconds
+Starting episode - 358
+Collected 8192 samples in 36.54 seconds
+Starting episode - 359
+Collected 8192 samples in 31.18 seconds
+Starting episode - 360
+Collected 8192 samples in 29.77 seconds
+[Episode 360] Eval...
+Greedy Eval: 684.43 ± 104.07
+Stochastic Eval: 724.49 ± 153.49
+Saving model...
+Model saved.
+Starting episode - 361
+Collected 8192 samples in 29.11 seconds
+Starting episode - 362
+Collected 8192 samples in 36.21 seconds
+Starting episode - 363
+Collected 8192 samples in 29.44 seconds
+Starting episode - 364
+Collected 8192 samples in 29.86 seconds
+Starting episode - 365
+Collected 8192 samples in 29.17 seconds
+Starting episode - 366
+Collected 8192 samples in 29.88 seconds
+Starting episode - 367
+Collected 8192 samples in 30.87 seconds
+Starting episode - 368
+Collected 8192 samples in 33.18 seconds
+Starting episode - 369
+Collected 8192 samples in 31.52 seconds
+Starting episode - 370
+Collected 8192 samples in 31.13 seconds
+[Episode 370] Eval...
+Greedy Eval: 765.53 ± 91.12
+Stochastic Eval: 733.38 ± 181.85
+Saving model...
+Model saved.
+Starting episode - 371
+Collected 8192 samples in 35.35 seconds
+Starting episode - 372
+Collected 8192 samples in 35.55 seconds
+Starting episode - 373
+Collected 8192 samples in 35.83 seconds
+Starting episode - 374
+Collected 8192 samples in 33.90 seconds
+Starting episode - 375
+Collected 8192 samples in 31.08 seconds
+Starting episode - 376
+Collected 8192 samples in 30.55 seconds
+Starting episode - 377
+Collected 8192 samples in 29.38 seconds
+Starting episode - 378
+Collected 8192 samples in 29.95 seconds
+Starting episode - 379
+Collected 8192 samples in 29.28 seconds
+Starting episode - 380
+Collected 8192 samples in 30.74 seconds
+[Episode 380] Eval...
+Greedy Eval: 714.34 ± 89.36
+Stochastic Eval: 693.31 ± 77.27
+Saving model...
+Model saved.
+Starting episode - 381
+Collected 8192 samples in 29.73 seconds
+Starting episode - 382
+Collected 8192 samples in 35.97 seconds
+Starting episode - 383
+Collected 8192 samples in 35.69 seconds
+Starting episode - 384
+Collected 8192 samples in 37.59 seconds
+Starting episode - 385
+Collected 8192 samples in 34.85 seconds
+Starting episode - 386
+Collected 8192 samples in 31.22 seconds
+Starting episode - 387
+Collected 8192 samples in 29.93 seconds
+Starting episode - 388
+Collected 8192 samples in 33.58 seconds
+Starting episode - 389
+Collected 8192 samples in 29.19 seconds
+Starting episode - 390
+Collected 8192 samples in 29.82 seconds
+[Episode 390] Eval...
+Greedy Eval: 616.90 ± 266.24
+Stochastic Eval: 683.31 ± 81.08
+Saving model...
+Model saved.
+Starting episode - 391
+Collected 8192 samples in 35.19 seconds
+Starting episode - 392
+Collected 8192 samples in 33.43 seconds
+Starting episode - 393
+Collected 8192 samples in 29.80 seconds
+Starting episode - 394
+Collected 8192 samples in 30.08 seconds
+Starting episode - 395
+Collected 8192 samples in 28.99 seconds
+Starting episode - 396
+Collected 8192 samples in 35.91 seconds
+Starting episode - 397
+Collected 8192 samples in 29.48 seconds
+Starting episode - 398
+Collected 8192 samples in 36.71 seconds
+Starting episode - 399
+Collected 8192 samples in 35.87 seconds
+Starting episode - 400
+Collected 8192 samples in 30.97 seconds
+[Episode 400] Eval...
+Greedy Eval: 653.70 ± 106.34
+Stochastic Eval: 653.39 ± 55.75
+Saving model...
+Model saved.
+Starting episode - 401
+Collected 8192 samples in 32.39 seconds
+Starting episode - 402
+Collected 8192 samples in 29.65 seconds
+Starting episode - 403
+Collected 8192 samples in 29.80 seconds
+Starting episode - 404
+Collected 8192 samples in 33.08 seconds
+Starting episode - 405
+Collected 8192 samples in 30.66 seconds
+Starting episode - 406
+Collected 8192 samples in 35.90 seconds
+Starting episode - 407
+Collected 8192 samples in 30.45 seconds
+Starting episode - 408
+Collected 8192 samples in 35.90 seconds
+Starting episode - 409
+Collected 8192 samples in 33.62 seconds
+Starting episode - 410
+Collected 8192 samples in 31.42 seconds
+[Episode 410] Eval...
+Greedy Eval: 681.12 ± 81.53
+Stochastic Eval: 678.01 ± 68.22
+Saving model...
+Model saved.
+Starting episode - 411
+Collected 8192 samples in 29.67 seconds
+Starting episode - 412
+Collected 8192 samples in 29.56 seconds
+Starting episode - 413
+Collected 8192 samples in 32.56 seconds
+Starting episode - 414
+Collected 8192 samples in 29.78 seconds
+Starting episode - 415
+Collected 8192 samples in 29.88 seconds
+Starting episode - 416
+Collected 8192 samples in 29.16 seconds
+Starting episode - 417
+Collected 8192 samples in 29.03 seconds
+Starting episode - 418
+Collected 8192 samples in 29.20 seconds
+Starting episode - 419
+Collected 8192 samples in 29.19 seconds
+Starting episode - 420
+Collected 8192 samples in 29.48 seconds
+[Episode 420] Eval...
+Greedy Eval: 647.42 ± 97.69
+Stochastic Eval: 669.41 ± 39.30
+Saving model...
+Model saved.
+Starting episode - 421
+Collected 8192 samples in 29.52 seconds
+Starting episode - 422
+Collected 8192 samples in 31.42 seconds
+Starting episode - 423
+Collected 8192 samples in 31.20 seconds
+Starting episode - 424
+Collected 8192 samples in 29.30 seconds
+Starting episode - 425
+Collected 8192 samples in 30.24 seconds
+Starting episode - 426
+Collected 8192 samples in 31.63 seconds
+Starting episode - 427
+Collected 8192 samples in 29.29 seconds
+Starting episode - 428
+Collected 8192 samples in 33.86 seconds
+Starting episode - 429
+Collected 8192 samples in 34.29 seconds
+Starting episode - 430
+Collected 8192 samples in 30.06 seconds
+[Episode 430] Eval...
+Greedy Eval: 694.37 ± 55.42
+Stochastic Eval: 653.75 ± 76.31
+Saving model...
+Model saved.
+Starting episode - 431
+Collected 8192 samples in 32.29 seconds
+Starting episode - 432
+Collected 8192 samples in 30.16 seconds
+Starting episode - 433
+Collected 8192 samples in 30.62 seconds
+Starting episode - 434
+Collected 8192 samples in 29.97 seconds
+Starting episode - 435
+Collected 8192 samples in 32.06 seconds
+Starting episode - 436
+Collected 8192 samples in 29.76 seconds
+Starting episode - 437
+Collected 8192 samples in 29.62 seconds
+Starting episode - 438
+Collected 8192 samples in 29.82 seconds
+Starting episode - 439
+Collected 8192 samples in 30.04 seconds
+Starting episode - 440
+Collected 8192 samples in 31.26 seconds
+[Episode 440] Eval...
+Greedy Eval: 618.33 ± 188.43
+Stochastic Eval: 659.68 ± 56.23
+Saving model...
+Model saved.
+Starting episode - 441
+Collected 8192 samples in 29.14 seconds
+Starting episode - 442
+Collected 8192 samples in 31.44 seconds
+Starting episode - 443
+Collected 8192 samples in 33.01 seconds
+Starting episode - 444
+Collected 8192 samples in 34.61 seconds
+Starting episode - 445
+Collected 8192 samples in 32.57 seconds
+Starting episode - 446
+Collected 8192 samples in 29.93 seconds
+Starting episode - 447
+Collected 8192 samples in 29.88 seconds
+Starting episode - 448
+Collected 8192 samples in 29.16 seconds
+Starting episode - 449
+Collected 8192 samples in 30.90 seconds
+Starting episode - 450
+Collected 8192 samples in 30.50 seconds
+[Episode 450] Eval...
+Greedy Eval: 633.57 ± 105.13
+Stochastic Eval: 620.58 ± 232.99
+Saving model...
+Model saved.
+Starting episode - 451
+Collected 8192 samples in 28.98 seconds
+Starting episode - 452
+Collected 8192 samples in 30.59 seconds
+Starting episode - 453
+Collected 8192 samples in 35.25 seconds
+Starting episode - 454
+Collected 8192 samples in 31.60 seconds
+Starting episode - 455
+Collected 8192 samples in 31.89 seconds
+Starting episode - 456
+Collected 8192 samples in 33.32 seconds
+Starting episode - 457
+Collected 8192 samples in 33.75 seconds
+Starting episode - 458
+Collected 8192 samples in 36.44 seconds
+Starting episode - 459
+Collected 8192 samples in 31.75 seconds
+Starting episode - 460
+Collected 8192 samples in 30.49 seconds
+[Episode 460] Eval...
+Greedy Eval: 711.82 ± 91.60
+Stochastic Eval: 629.37 ± 46.40
+Saving model...
+Model saved.
+Starting episode - 461
+Collected 8192 samples in 30.38 seconds
+Starting episode - 462
+Collected 8192 samples in 34.72 seconds
+Starting episode - 463
+Collected 8192 samples in 35.62 seconds
+Starting episode - 464
+Collected 8192 samples in 36.73 seconds
+Starting episode - 465
+Collected 8192 samples in 31.05 seconds
+Starting episode - 466
+Collected 8192 samples in 31.91 seconds
+Starting episode - 467
+Collected 8192 samples in 31.93 seconds
+Starting episode - 468
+Collected 8192 samples in 31.47 seconds
+Starting episode - 469
+Collected 8192 samples in 29.63 seconds
+Starting episode - 470
+Collected 8192 samples in 29.61 seconds
+[Episode 470] Eval...
+Greedy Eval: 631.86 ± 191.98
+Stochastic Eval: 657.08 ± 120.56
+Saving model...
+Model saved.
+Starting episode - 471
+Collected 8192 samples in 30.40 seconds
+Starting episode - 472
+Collected 8192 samples in 30.02 seconds
+Starting episode - 473
+Collected 8192 samples in 31.08 seconds
+Starting episode - 474
+Collected 8192 samples in 34.13 seconds
+Starting episode - 475
+Collected 8192 samples in 29.16 seconds
+Starting episode - 476
+Collected 8192 samples in 29.23 seconds
+Starting episode - 477
+Collected 8192 samples in 29.25 seconds
+Starting episode - 478
+Collected 8192 samples in 34.62 seconds
+Starting episode - 479
+Collected 8192 samples in 31.21 seconds
+Starting episode - 480
+Collected 8192 samples in 30.04 seconds
+[Episode 480] Eval...
+Greedy Eval: 645.15 ± 160.91
+Stochastic Eval: 641.95 ± 125.46
+Saving model...
+Model saved.
+Starting episode - 481
+Collected 8192 samples in 34.01 seconds
+Starting episode - 482
+Collected 8192 samples in 30.64 seconds
+Starting episode - 483
+Collected 8192 samples in 33.30 seconds
+Starting episode - 484
+Collected 8192 samples in 29.63 seconds
+Starting episode - 485
+Collected 8192 samples in 31.21 seconds
+Starting episode - 486
+Collected 8192 samples in 30.01 seconds
+Starting episode - 487
+Collected 8192 samples in 29.11 seconds
+Starting episode - 488
+Collected 8192 samples in 29.54 seconds
+Starting episode - 489
+Collected 8192 samples in 29.13 seconds
+Starting episode - 490
+Collected 8192 samples in 29.38 seconds
+[Episode 490] Eval...
+Greedy Eval: 716.19 ± 75.37
+Stochastic Eval: 715.39 ± 102.32
+Saving model...
+Model saved.
+Starting episode - 491
+Collected 8192 samples in 29.14 seconds
+Starting episode - 492
+Collected 8192 samples in 29.67 seconds
+Starting episode - 493
+Collected 8192 samples in 30.89 seconds
+Starting episode - 494
+Collected 8192 samples in 29.61 seconds
+Starting episode - 495
+Collected 8192 samples in 32.33 seconds
+Starting episode - 496
+Collected 8192 samples in 29.56 seconds
+Starting episode - 497
+Collected 8192 samples in 29.05 seconds
+Starting episode - 498
+Collected 8192 samples in 29.79 seconds
+Starting episode - 499
+Collected 8192 samples in 29.42 seconds
+Starting episode - 500
+Collected 8192 samples in 34.86 seconds
+[Episode 500] Eval...
+Greedy Eval: 708.43 ± 105.65
+Stochastic Eval: 696.19 ± 104.45
+Saving model...
+Model saved.
+Starting episode - 501
+Collected 8192 samples in 36.52 seconds
+Starting episode - 502
+Collected 8192 samples in 29.97 seconds
+Starting episode - 503
+Collected 8192 samples in 29.23 seconds
+Starting episode - 504
+Collected 8192 samples in 29.34 seconds
+Starting episode - 505
+Collected 8192 samples in 30.50 seconds
+Starting episode - 506
+Collected 8192 samples in 29.31 seconds
+Starting episode - 507
+Collected 8192 samples in 29.35 seconds
+Starting episode - 508
+Collected 8192 samples in 29.13 seconds
+Starting episode - 509
+Collected 8192 samples in 29.02 seconds
+Starting episode - 510
+Collected 8192 samples in 29.06 seconds
+[Episode 510] Eval...
+Greedy Eval: 656.24 ± 161.93
+Stochastic Eval: 549.50 ± 169.24
+Saving model...
+Model saved.
+Starting episode - 511
+Collected 8192 samples in 28.60 seconds
+Starting episode - 512
+Collected 8192 samples in 30.11 seconds
+Starting episode - 513
+Collected 8192 samples in 32.81 seconds
+Starting episode - 514
+Collected 8192 samples in 28.30 seconds
+Starting episode - 515
+Collected 8192 samples in 28.90 seconds
+Starting episode - 516
+Collected 8192 samples in 31.34 seconds
+Starting episode - 517
+Collected 8192 samples in 28.60 seconds
+Starting episode - 518
+Collected 8192 samples in 29.02 seconds
+Starting episode - 519
+Collected 8192 samples in 28.23 seconds
+Starting episode - 520
+Collected 8192 samples in 28.80 seconds
+[Episode 520] Eval...
+Greedy Eval: 705.48 ± 67.40
+Stochastic Eval: 589.96 ± 158.20
+Saving model...
+Model saved.
+Starting episode - 521
+Collected 8192 samples in 28.66 seconds
+Starting episode - 522
+Collected 8192 samples in 28.76 seconds
+Starting episode - 523
+Collected 8192 samples in 28.89 seconds
+Starting episode - 524
+Collected 8192 samples in 28.83 seconds
+Starting episode - 525
+Collected 8192 samples in 28.50 seconds
+Starting episode - 526
+Collected 8192 samples in 28.28 seconds
+Starting episode - 527
+Collected 8192 samples in 28.82 seconds
+Starting episode - 528
+Collected 8192 samples in 28.88 seconds
+Starting episode - 529
+Collected 8192 samples in 29.71 seconds
+Starting episode - 530
+Collected 8192 samples in 29.11 seconds
+[Episode 530] Eval...
+Greedy Eval: 753.72 ± 80.24
+Stochastic Eval: 668.75 ± 64.78
+Saving model...
+Model saved.
+Starting episode - 531
+Collected 8192 samples in 36.01 seconds
+Starting episode - 532
+Collected 8192 samples in 28.89 seconds
+Starting episode - 533
+Collected 8192 samples in 29.33 seconds
+Starting episode - 534
+Collected 8192 samples in 29.19 seconds
+Starting episode - 535
+Collected 8192 samples in 29.77 seconds
+Starting episode - 536
+Collected 8192 samples in 29.46 seconds
+Starting episode - 537
+Collected 8192 samples in 35.97 seconds
+Starting episode - 538
+Collected 8192 samples in 37.06 seconds
+Starting episode - 539
+Collected 8192 samples in 37.53 seconds
+Starting episode - 540
+Collected 8192 samples in 28.91 seconds
+[Episode 540] Eval...
+Greedy Eval: 673.27 ± 104.64
+Stochastic Eval: 714.39 ± 27.43
+Saving model...
+Model saved.
+Starting episode - 541
+Collected 8192 samples in 33.94 seconds
+Starting episode - 542
+Collected 8192 samples in 28.82 seconds
+Starting episode - 543
+Collected 8192 samples in 29.03 seconds
+Starting episode - 544
+Collected 8192 samples in 36.64 seconds
+Starting episode - 545
+Collected 8192 samples in 35.29 seconds
+Starting episode - 546
+Collected 8192 samples in 28.58 seconds
+Starting episode - 547
+Collected 8192 samples in 28.01 seconds
+Starting episode - 548
+Collected 8192 samples in 29.02 seconds
+Starting episode - 549
+Collected 8192 samples in 30.26 seconds
+Starting episode - 550
+Collected 8192 samples in 33.71 seconds
+[Episode 550] Eval...
+Greedy Eval: 743.59 ± 53.07
+Stochastic Eval: 756.99 ± 58.13
+Saving model...
+Model saved.
+Starting episode - 551
+Collected 8192 samples in 28.79 seconds
+Starting episode - 552
+Collected 8192 samples in 30.34 seconds
+Starting episode - 553
+Collected 8192 samples in 29.00 seconds
+Starting episode - 554
+Collected 8192 samples in 30.62 seconds
+Starting episode - 555
+Collected 8192 samples in 29.29 seconds
+Starting episode - 556
+Collected 8192 samples in 29.46 seconds
+Starting episode - 557
+Collected 8192 samples in 28.97 seconds
+Starting episode - 558
+Collected 8192 samples in 29.30 seconds
+Starting episode - 559
+Collected 8192 samples in 35.13 seconds
+Starting episode - 560
+Collected 8192 samples in 36.67 seconds
+[Episode 560] Eval...
+Greedy Eval: 580.23 ± 207.15
+Stochastic Eval: 665.73 ± 185.38
+Saving model...
+Model saved.
+Starting episode - 561
+Collected 8192 samples in 34.41 seconds
+Starting episode - 562
+Collected 8192 samples in 36.34 seconds
+Starting episode - 563
+Collected 8192 samples in 35.27 seconds
+Starting episode - 564
+Collected 8192 samples in 31.47 seconds
+Starting episode - 565
+Collected 8192 samples in 37.22 seconds
+Starting episode - 566
+Collected 8192 samples in 32.36 seconds
+Starting episode - 567
+Collected 8192 samples in 28.23 seconds
+Starting episode - 568
+Collected 8192 samples in 34.21 seconds
+Starting episode - 569
+Collected 8192 samples in 28.91 seconds
+Starting episode - 570
+Collected 8192 samples in 35.80 seconds
+[Episode 570] Eval...
+Greedy Eval: 772.30 ± 69.63
+Stochastic Eval: 691.33 ± 74.51
+Saving model...
+Model saved.
+Starting episode - 571
+Collected 8192 samples in 32.46 seconds
+Starting episode - 572
+Collected 8192 samples in 30.27 seconds
+Starting episode - 573
+Collected 8192 samples in 29.57 seconds
+Starting episode - 574
+Collected 8192 samples in 31.04 seconds
+Starting episode - 575
+Collected 8192 samples in 28.37 seconds
+Starting episode - 576
+Collected 8192 samples in 29.27 seconds
+Starting episode - 577
+Collected 8192 samples in 33.48 seconds
+Starting episode - 578
+Collected 8192 samples in 31.12 seconds
+Starting episode - 579
+Collected 8192 samples in 28.90 seconds
+Starting episode - 580
+Collected 8192 samples in 32.06 seconds
+[Episode 580] Eval...
+Greedy Eval: 784.94 ± 50.63
+Stochastic Eval: 725.96 ± 76.72
+Saving model...
+Model saved.
+Starting episode - 581
+Collected 8192 samples in 32.90 seconds
+Starting episode - 582
+Collected 8192 samples in 33.16 seconds
+Starting episode - 583
+Collected 8192 samples in 36.63 seconds
+Starting episode - 584
+Collected 8192 samples in 36.75 seconds
+Starting episode - 585
+Collected 8192 samples in 28.75 seconds
+Starting episode - 586
+Collected 8192 samples in 28.74 seconds
+Starting episode - 587
+Collected 8192 samples in 30.09 seconds
+Starting episode - 588
+Collected 8192 samples in 28.57 seconds
+Starting episode - 589
+Collected 8192 samples in 29.40 seconds
+Starting episode - 590
+Collected 8192 samples in 28.71 seconds
+[Episode 590] Eval...
+Greedy Eval: 727.92 ± 121.30
+Stochastic Eval: 732.59 ± 89.77
+Saving model...
+Model saved.
+Starting episode - 591
+Collected 8192 samples in 36.04 seconds
+Starting episode - 592
+Collected 8192 samples in 37.32 seconds
+Starting episode - 593
+Collected 8192 samples in 31.54 seconds
+Starting episode - 594
+Collected 8192 samples in 31.15 seconds
+Starting episode - 595
+Collected 8192 samples in 31.05 seconds
+Starting episode - 596
+Collected 8192 samples in 28.84 seconds
+Starting episode - 597
+Collected 8192 samples in 29.38 seconds
+Starting episode - 598
+Collected 8192 samples in 28.68 seconds
+Starting episode - 599
+Collected 8192 samples in 29.36 seconds
+Starting episode - 600
+Collected 8192 samples in 33.76 seconds
+[Episode 600] Eval...
+Greedy Eval: 743.44 ± 78.97
+Stochastic Eval: 720.96 ± 65.01
+Saving model...
+Model saved.
+Starting episode - 601
+Collected 8192 samples in 30.15 seconds
+Starting episode - 602
+Collected 8192 samples in 30.16 seconds
+Starting episode - 603
+Collected 8192 samples in 30.19 seconds
+Starting episode - 604
+Collected 8192 samples in 28.74 seconds
+Starting episode - 605
+Collected 8192 samples in 28.71 seconds
+Starting episode - 606
+Collected 8192 samples in 35.42 seconds
+Starting episode - 607
+Collected 8192 samples in 28.83 seconds
+Starting episode - 608
+Collected 8192 samples in 33.85 seconds
+Starting episode - 609
+Collected 8192 samples in 29.11 seconds
+Starting episode - 610
+Collected 8192 samples in 28.84 seconds
+[Episode 610] Eval...
+Greedy Eval: 746.96 ± 79.36
+Stochastic Eval: 708.32 ± 108.88
+Saving model...
+Model saved.
+Starting episode - 611
+Collected 8192 samples in 30.77 seconds
+Starting episode - 612
+Collected 8192 samples in 29.22 seconds
+Starting episode - 613
+Collected 8192 samples in 30.00 seconds
+Starting episode - 614
+Collected 8192 samples in 29.50 seconds
+Starting episode - 615
+Collected 8192 samples in 32.76 seconds
+Starting episode - 616
+Collected 8192 samples in 30.41 seconds
+Starting episode - 617
+Collected 8192 samples in 28.56 seconds
+Starting episode - 618
+Collected 8192 samples in 30.86 seconds
+Starting episode - 619
+Collected 8192 samples in 30.84 seconds
+Starting episode - 620
+Collected 8192 samples in 29.10 seconds
+[Episode 620] Eval...
+Greedy Eval: 788.10 ± 46.60
+Stochastic Eval: 731.03 ± 83.87
+Saving model...
+Model saved.
+Starting episode - 621
+Collected 8192 samples in 28.52 seconds
+Starting episode - 622
+Collected 8192 samples in 34.06 seconds
+Starting episode - 623
+Collected 8192 samples in 28.60 seconds
+Starting episode - 624
+Collected 8192 samples in 33.39 seconds
+Starting episode - 625
+Collected 8192 samples in 30.09 seconds
+Starting episode - 626
+Collected 8192 samples in 29.08 seconds
+Starting episode - 627
+Collected 8192 samples in 29.03 seconds
+Starting episode - 628
+Collected 8192 samples in 29.36 seconds
+Starting episode - 629
+Collected 8192 samples in 28.58 seconds
+Starting episode - 630
+Collected 8192 samples in 34.33 seconds
+[Episode 630] Eval...
+Greedy Eval: 743.95 ± 80.52
+Stochastic Eval: 701.92 ± 210.54
+Saving model...
+Model saved.
+Starting episode - 631
+Collected 8192 samples in 28.94 seconds
+Starting episode - 632
+Collected 8192 samples in 30.66 seconds
+Starting episode - 633
+Collected 8192 samples in 30.91 seconds
+Starting episode - 634
+Collected 8192 samples in 36.50 seconds
+Starting episode - 635
+Collected 8192 samples in 32.81 seconds
+Starting episode - 636
+Collected 8192 samples in 28.64 seconds
+Starting episode - 637
+Collected 8192 samples in 28.61 seconds
+Starting episode - 638
+Collected 8192 samples in 30.38 seconds
+Starting episode - 639
+Collected 8192 samples in 29.40 seconds
+Starting episode - 640
+Collected 8192 samples in 31.33 seconds
+[Episode 640] Eval...
+Greedy Eval: 761.37 ± 68.78
+Stochastic Eval: 734.24 ± 74.31
+Saving model...
+Model saved.
+Starting episode - 641
+Collected 8192 samples in 30.21 seconds
+Starting episode - 642
+Collected 8192 samples in 29.55 seconds
+Starting episode - 643
+Collected 8192 samples in 36.21 seconds
+Starting episode - 644
+Collected 8192 samples in 33.69 seconds
+Starting episode - 645
+Collected 8192 samples in 33.92 seconds
+Starting episode - 646
+Collected 8192 samples in 31.04 seconds
+Starting episode - 647
+Collected 8192 samples in 32.77 seconds
+Starting episode - 648
+Collected 8192 samples in 30.19 seconds
+Starting episode - 649
+Collected 8192 samples in 28.99 seconds
+Starting episode - 650
+Collected 8192 samples in 28.49 seconds
+[Episode 650] Eval...
+Greedy Eval: 790.16 ± 70.29
+Stochastic Eval: 717.78 ± 61.58
+Saving model...
+Model saved.
+Starting episode - 651
+Collected 8192 samples in 29.07 seconds
+Starting episode - 652
+Collected 8192 samples in 30.17 seconds
+Starting episode - 653
+Collected 8192 samples in 32.88 seconds
+Starting episode - 654
+Collected 8192 samples in 33.75 seconds
+Starting episode - 655
+Collected 8192 samples in 29.11 seconds
+Starting episode - 656
+Collected 8192 samples in 33.00 seconds
+Starting episode - 657
+Collected 8192 samples in 28.43 seconds
+Starting episode - 658
+Collected 8192 samples in 29.43 seconds
+Starting episode - 659
+Collected 8192 samples in 28.68 seconds
+Starting episode - 660
+Collected 8192 samples in 34.15 seconds
+[Episode 660] Eval...
+Greedy Eval: 742.38 ± 90.41
+Stochastic Eval: 728.81 ± 55.50
+Saving model...
+Model saved.
+Starting episode - 661
+Collected 8192 samples in 34.61 seconds
+Starting episode - 662
+Collected 8192 samples in 29.79 seconds
+Starting episode - 663
+Collected 8192 samples in 30.21 seconds
+Starting episode - 664
+Collected 8192 samples in 29.45 seconds
+Starting episode - 665
+Collected 8192 samples in 29.55 seconds
+Starting episode - 666
+Collected 8192 samples in 30.58 seconds
+Starting episode - 667
+Collected 8192 samples in 33.03 seconds
+Starting episode - 668
+Collected 8192 samples in 35.00 seconds
+Starting episode - 669
+Collected 8192 samples in 35.79 seconds
+Starting episode - 670
+Collected 8192 samples in 32.14 seconds
+[Episode 670] Eval...
+Greedy Eval: 724.45 ± 87.99
+Stochastic Eval: 713.69 ± 122.44
+Saving model...
+Model saved.
+Starting episode - 671
+Collected 8192 samples in 37.10 seconds
+Starting episode - 672
+Collected 8192 samples in 29.42 seconds
+Starting episode - 673
+Collected 8192 samples in 29.37 seconds
+Starting episode - 674
+Collected 8192 samples in 35.29 seconds
+Starting episode - 675
+Collected 8192 samples in 31.23 seconds
+Starting episode - 676
+Collected 8192 samples in 31.70 seconds
+Starting episode - 677
+Collected 8192 samples in 29.59 seconds
+Starting episode - 678
+Collected 8192 samples in 29.22 seconds
+Starting episode - 679
+Collected 8192 samples in 37.11 seconds
+Starting episode - 680
+Collected 8192 samples in 36.54 seconds
+[Episode 680] Eval...
+Greedy Eval: 783.84 ± 97.51
+Stochastic Eval: 696.18 ± 83.09
+Saving model...
+Model saved.
+Starting episode - 681
+Collected 8192 samples in 37.01 seconds
+Starting episode - 682
+Collected 8192 samples in 31.98 seconds
+Starting episode - 683
+Collected 8192 samples in 29.34 seconds
+Starting episode - 684
+Collected 8192 samples in 29.36 seconds
+Starting episode - 685
+Collected 8192 samples in 28.77 seconds
+Starting episode - 686
+Collected 8192 samples in 28.96 seconds
+Starting episode - 687
+Collected 8192 samples in 29.92 seconds
+Starting episode - 688
+Collected 8192 samples in 30.10 seconds
+Starting episode - 689
+Collected 8192 samples in 31.88 seconds
+Starting episode - 690
+Collected 8192 samples in 33.78 seconds
+[Episode 690] Eval...
+Greedy Eval: 760.59 ± 51.34
+Stochastic Eval: 653.26 ± 210.96
+Saving model...
+Model saved.
+Starting episode - 691
+Collected 8192 samples in 32.15 seconds
+Starting episode - 692
+Collected 8192 samples in 29.15 seconds
+Starting episode - 693
+Collected 8192 samples in 30.42 seconds
+Starting episode - 694
+Collected 8192 samples in 35.47 seconds
+Starting episode - 695
+Collected 8192 samples in 29.08 seconds
+Starting episode - 696
+Collected 8192 samples in 31.51 seconds
+Starting episode - 697
+Collected 8192 samples in 36.40 seconds
+Starting episode - 698
+Collected 8192 samples in 29.47 seconds
+Starting episode - 699
+Collected 8192 samples in 29.36 seconds
+Starting episode - 700
+Collected 8192 samples in 29.69 seconds
+[Episode 700] Eval...
+Greedy Eval: 752.52 ± 88.51
+Stochastic Eval: 772.88 ± 90.82
+Saving model...
+Model saved.
+Starting episode - 701
+Collected 8192 samples in 36.65 seconds
+Starting episode - 702
+Collected 8192 samples in 29.34 seconds
+Starting episode - 703
+Collected 8192 samples in 29.50 seconds
+Starting episode - 704
+Collected 8192 samples in 34.79 seconds
+Starting episode - 705
+Collected 8192 samples in 29.87 seconds
+Starting episode - 706
+Collected 8192 samples in 30.49 seconds
+Starting episode - 707
+Collected 8192 samples in 29.02 seconds
+Starting episode - 708
+Collected 8192 samples in 29.31 seconds
+Starting episode - 709
+Collected 8192 samples in 29.22 seconds
+Starting episode - 710
+Collected 8192 samples in 35.58 seconds
+[Episode 710] Eval...
+Greedy Eval: 742.58 ± 135.67
+Stochastic Eval: 788.83 ± 87.86
+Saving model...
+Model saved.
+Starting episode - 711
+Collected 8192 samples in 34.48 seconds
+Starting episode - 712
+Collected 8192 samples in 30.79 seconds
+Starting episode - 713
+Collected 8192 samples in 28.97 seconds
+Starting episode - 714
+Collected 8192 samples in 29.21 seconds
+Starting episode - 715
+Collected 8192 samples in 31.74 seconds
+Starting episode - 716
+Collected 8192 samples in 33.62 seconds
+Starting episode - 717
+Collected 8192 samples in 31.97 seconds
+Starting episode - 718
+Collected 8192 samples in 30.02 seconds
+Starting episode - 719
+Collected 8192 samples in 29.48 seconds
+Starting episode - 720
+Collected 8192 samples in 29.26 seconds
+[Episode 720] Eval...
+Greedy Eval: 746.00 ± 98.60
+Stochastic Eval: 717.48 ± 51.38
+Saving model...
+Model saved.
+Starting episode - 721
+Collected 8192 samples in 30.05 seconds
+Starting episode - 722
+Collected 8192 samples in 29.21 seconds
+Starting episode - 723
+Collected 8192 samples in 32.30 seconds
+Starting episode - 724
+Collected 8192 samples in 37.22 seconds
+Starting episode - 725
+Collected 8192 samples in 30.73 seconds
+Starting episode - 726
+Collected 8192 samples in 32.78 seconds
+Starting episode - 727
+Collected 8192 samples in 29.14 seconds
+Starting episode - 728
+Collected 8192 samples in 35.59 seconds
+Starting episode - 729
+Collected 8192 samples in 29.90 seconds
+Starting episode - 730
+Collected 8192 samples in 29.21 seconds
+[Episode 730] Eval...
+Greedy Eval: 706.41 ± 91.62
+Stochastic Eval: 705.25 ± 45.47
+Saving model...
+Model saved.
+Starting episode - 731
+Collected 8192 samples in 37.15 seconds
+Starting episode - 732
+Collected 8192 samples in 33.49 seconds
+Starting episode - 733
+Collected 8192 samples in 29.43 seconds
+Starting episode - 734
+Collected 8192 samples in 29.40 seconds
+Starting episode - 735
+Collected 8192 samples in 28.68 seconds
+Starting episode - 736
+Collected 8192 samples in 30.51 seconds
+Starting episode - 737
+Collected 8192 samples in 29.32 seconds
+Starting episode - 738
+Collected 8192 samples in 29.44 seconds
+Starting episode - 739
+Collected 8192 samples in 34.90 seconds
+Starting episode - 740
+Collected 8192 samples in 36.12 seconds
+[Episode 740] Eval...
+Greedy Eval: 726.60 ± 59.82
+Stochastic Eval: 704.20 ± 118.64
+Saving model...
+Model saved.
+Starting episode - 741
+Collected 8192 samples in 28.95 seconds
+Starting episode - 742
+Collected 8192 samples in 30.94 seconds
+Starting episode - 743
+Collected 8192 samples in 29.12 seconds
+Starting episode - 744
+Collected 8192 samples in 29.14 seconds
+Starting episode - 745
+Collected 8192 samples in 28.84 seconds
+Starting episode - 746
+Collected 8192 samples in 35.99 seconds
+Starting episode - 747
+Collected 8192 samples in 30.37 seconds
+Starting episode - 748
+Collected 8192 samples in 33.14 seconds
+Starting episode - 749
+Collected 8192 samples in 29.78 seconds
+Starting episode - 750
+Collected 8192 samples in 29.25 seconds
+[Episode 750] Eval...
+Greedy Eval: 741.58 ± 81.38
+Stochastic Eval: 706.06 ± 56.56
+Saving model...
+Model saved.
+Starting episode - 751
+Collected 8192 samples in 31.14 seconds
+Starting episode - 752
+Collected 8192 samples in 30.13 seconds
+Starting episode - 753
+Collected 8192 samples in 33.28 seconds
+Starting episode - 754
+Collected 8192 samples in 36.31 seconds
+Starting episode - 755
+Collected 8192 samples in 29.21 seconds
+Starting episode - 756
+Collected 8192 samples in 32.51 seconds
+Starting episode - 757
+Collected 8192 samples in 32.27 seconds
+Starting episode - 758
+Collected 8192 samples in 29.35 seconds
+Starting episode - 759
+Collected 8192 samples in 29.22 seconds
+Starting episode - 760
+Collected 8192 samples in 33.14 seconds
+[Episode 760] Eval...
+Greedy Eval: 705.03 ± 56.04
+Stochastic Eval: 731.44 ± 41.49
+Saving model...
+Model saved.
+Starting episode - 761
+Collected 8192 samples in 31.95 seconds
+Starting episode - 762
+Collected 8192 samples in 28.97 seconds
+Starting episode - 763
+Collected 8192 samples in 31.75 seconds
+Starting episode - 764
+Collected 8192 samples in 29.68 seconds
+Starting episode - 765
+Collected 8192 samples in 30.60 seconds
+Starting episode - 766
+Collected 8192 samples in 29.80 seconds
+Starting episode - 767
+Collected 8192 samples in 29.45 seconds
+Starting episode - 768
+Collected 8192 samples in 31.11 seconds
+Starting episode - 769
+Collected 8192 samples in 37.09 seconds
+Starting episode - 770
+Collected 8192 samples in 34.41 seconds
+[Episode 770] Eval...
+Greedy Eval: 708.83 ± 57.20
+Stochastic Eval: 685.13 ± 125.29
+Saving model...
+Model saved.
+Starting episode - 771
+Collected 8192 samples in 29.50 seconds
+Starting episode - 772
+Collected 8192 samples in 30.44 seconds
+Starting episode - 773
+Collected 8192 samples in 29.37 seconds
+Starting episode - 774
+Collected 8192 samples in 29.03 seconds
+Starting episode - 775
+Collected 8192 samples in 36.39 seconds
+Starting episode - 776
+Collected 8192 samples in 31.05 seconds
+Starting episode - 777
+Collected 8192 samples in 31.51 seconds
+Starting episode - 778
+Collected 8192 samples in 29.23 seconds
+Starting episode - 779
+Collected 8192 samples in 28.91 seconds
+Starting episode - 780
+Collected 8192 samples in 29.47 seconds
+[Episode 780] Eval...
+Greedy Eval: 713.96 ± 64.73
+Stochastic Eval: 690.16 ± 95.15
+Saving model...
+Model saved.
+Starting episode - 781
+Collected 8192 samples in 35.61 seconds
+Starting episode - 782
+Collected 8192 samples in 36.23 seconds
+Starting episode - 783
+Collected 8192 samples in 30.10 seconds
+Starting episode - 784
+Collected 8192 samples in 30.81 seconds
+Starting episode - 785
+Collected 8192 samples in 29.83 seconds
+Starting episode - 786
+Collected 8192 samples in 29.10 seconds
+Starting episode - 787
+Collected 8192 samples in 29.31 seconds
+Starting episode - 788
+Collected 8192 samples in 33.45 seconds
+Starting episode - 789
+Collected 8192 samples in 29.15 seconds
+Starting episode - 790
+Collected 8192 samples in 33.62 seconds
+[Episode 790] Eval...
+Greedy Eval: 649.50 ± 60.61
+Stochastic Eval: 679.14 ± 44.92
+Saving model...
+Model saved.
+Starting episode - 791
+Collected 8192 samples in 36.41 seconds
+Starting episode - 792
+Collected 8192 samples in 30.01 seconds
+Starting episode - 793
+Collected 8192 samples in 29.99 seconds
+Starting episode - 794
+Collected 8192 samples in 29.03 seconds
+Starting episode - 795
+Collected 8192 samples in 32.61 seconds
+Starting episode - 796
+Collected 8192 samples in 30.04 seconds
+Starting episode - 797
+Collected 8192 samples in 29.31 seconds
+Starting episode - 798
+Collected 8192 samples in 29.31 seconds
+Starting episode - 799
+Collected 8192 samples in 31.45 seconds
+Starting episode - 800
+Collected 8192 samples in 31.25 seconds
+[Episode 800] Eval...
+Greedy Eval: 715.17 ± 61.74
+Stochastic Eval: 667.49 ± 104.22
+Saving model...
+Model saved.
+Starting episode - 801
+Collected 8192 samples in 29.26 seconds
+Starting episode - 802
+Collected 8192 samples in 29.21 seconds
+Starting episode - 803
+Collected 8192 samples in 35.88 seconds
+Starting episode - 804
+Collected 8192 samples in 29.10 seconds
+Starting episode - 805
+Collected 8192 samples in 29.16 seconds
+Starting episode - 806
+Collected 8192 samples in 29.35 seconds
+Starting episode - 807
+Collected 8192 samples in 34.20 seconds
+Starting episode - 808
+Collected 8192 samples in 29.47 seconds
+Starting episode - 809
+Collected 8192 samples in 31.20 seconds
+Starting episode - 810
+Collected 8192 samples in 29.94 seconds
+[Episode 810] Eval...
+Greedy Eval: 690.27 ± 88.90
+Stochastic Eval: 728.14 ± 53.00
+Saving model...
+Model saved.
+Starting episode - 811
+Collected 8192 samples in 29.17 seconds
+Starting episode - 812
+Collected 8192 samples in 29.26 seconds
+Starting episode - 813
+Collected 8192 samples in 30.11 seconds
+Starting episode - 814
+Collected 8192 samples in 31.16 seconds
+Starting episode - 815
+Collected 8192 samples in 28.96 seconds
+Starting episode - 816
+Collected 8192 samples in 29.61 seconds
+Starting episode - 817
+Collected 8192 samples in 30.54 seconds
+Starting episode - 818
+Collected 8192 samples in 31.96 seconds
+Starting episode - 819
+Collected 8192 samples in 29.48 seconds
+Starting episode - 820
+Collected 8192 samples in 30.23 seconds
+[Episode 820] Eval...
+Greedy Eval: 625.60 ± 192.22
+Stochastic Eval: 715.09 ± 61.80
+Saving model...
+Model saved.
+Starting episode - 821
+Collected 8192 samples in 30.53 seconds
+Starting episode - 822
+Collected 8192 samples in 30.96 seconds
+Starting episode - 823
+Collected 8192 samples in 32.11 seconds
+Starting episode - 824
+Collected 8192 samples in 29.05 seconds
+Starting episode - 825
+Collected 8192 samples in 35.42 seconds
+Starting episode - 826
+Collected 8192 samples in 30.53 seconds
+Starting episode - 827
+Collected 8192 samples in 29.99 seconds
+Starting episode - 828
+Collected 8192 samples in 30.62 seconds
+Starting episode - 829
+Collected 8192 samples in 30.32 seconds
+Starting episode - 830
+Collected 8192 samples in 28.82 seconds
+[Episode 830] Eval...
+Greedy Eval: 738.82 ± 60.68
+Stochastic Eval: 728.12 ± 79.20
+Saving model...
+Model saved.
+Starting episode - 831
+Collected 8192 samples in 29.46 seconds
+Starting episode - 832
+Collected 8192 samples in 34.26 seconds
+Starting episode - 833
+Collected 8192 samples in 29.59 seconds
+Starting episode - 834
+Collected 8192 samples in 29.02 seconds
+Starting episode - 835
+Collected 8192 samples in 30.12 seconds
+Starting episode - 836
+Collected 8192 samples in 29.27 seconds
+Starting episode - 837
+Collected 8192 samples in 29.22 seconds
+Starting episode - 838
+Collected 8192 samples in 30.24 seconds
+Starting episode - 839
+Collected 8192 samples in 31.32 seconds
+Starting episode - 840
+Collected 8192 samples in 29.09 seconds
+[Episode 840] Eval...
+Greedy Eval: 755.24 ± 70.89
+Stochastic Eval: 721.27 ± 75.33
+Saving model...
+Model saved.
+Starting episode - 841
+Collected 8192 samples in 31.06 seconds
+Starting episode - 842
+Collected 8192 samples in 29.61 seconds
+Starting episode - 843
+Collected 8192 samples in 28.97 seconds
+Starting episode - 844
+Collected 8192 samples in 29.26 seconds
+Starting episode - 845
+Collected 8192 samples in 32.15 seconds
+Starting episode - 846
+Collected 8192 samples in 36.63 seconds
+Starting episode - 847
+Collected 8192 samples in 30.68 seconds
+Starting episode - 848
+Collected 8192 samples in 29.29 seconds
+Starting episode - 849
+Collected 8192 samples in 29.42 seconds
+Starting episode - 850
+Collected 8192 samples in 31.66 seconds
+[Episode 850] Eval...
+Greedy Eval: 747.57 ± 57.89
+Stochastic Eval: 700.76 ± 104.68
+Saving model...
+Model saved.
+Starting episode - 851
+Collected 8192 samples in 29.37 seconds
+Starting episode - 852
+Collected 8192 samples in 32.21 seconds
+Starting episode - 853
+Collected 8192 samples in 36.45 seconds
+Starting episode - 854
+Collected 8192 samples in 32.67 seconds
+Starting episode - 855
+Collected 8192 samples in 29.77 seconds
+Starting episode - 856
+Collected 8192 samples in 34.67 seconds
+Starting episode - 857
+Collected 8192 samples in 36.97 seconds
+Starting episode - 858
+Collected 8192 samples in 29.20 seconds
+Starting episode - 859
+Collected 8192 samples in 29.24 seconds
+Starting episode - 860
+Collected 8192 samples in 29.35 seconds
+[Episode 860] Eval...
+Greedy Eval: 688.88 ± 63.77
+Stochastic Eval: 703.36 ± 46.45
+Saving model...
+Model saved.
+Starting episode - 861
+Collected 8192 samples in 29.17 seconds
+Starting episode - 862
+Collected 8192 samples in 29.98 seconds
+Starting episode - 863
+Collected 8192 samples in 29.92 seconds
+Starting episode - 864
+Collected 8192 samples in 31.69 seconds
+Starting episode - 865
+Collected 8192 samples in 29.44 seconds
+Starting episode - 866
+Collected 8192 samples in 30.43 seconds
+Starting episode - 867
+Collected 8192 samples in 29.37 seconds
+Starting episode - 868
+Collected 8192 samples in 29.08 seconds
+Starting episode - 869
+Collected 8192 samples in 29.22 seconds
+Starting episode - 870
+Collected 8192 samples in 30.04 seconds
+[Episode 870] Eval...
+Greedy Eval: 740.04 ± 53.71
+Stochastic Eval: 721.04 ± 59.05
+Saving model...
+Model saved.
+Starting episode - 871
+Collected 8192 samples in 29.94 seconds
+Starting episode - 872
+Collected 8192 samples in 34.79 seconds
+Starting episode - 873
+Collected 8192 samples in 29.19 seconds
+Starting episode - 874
+Collected 8192 samples in 31.50 seconds
+Starting episode - 875
+Collected 8192 samples in 30.02 seconds
+Starting episode - 876
+Collected 8192 samples in 28.55 seconds
+Starting episode - 877
+Collected 8192 samples in 29.84 seconds
+Starting episode - 878
+Collected 8192 samples in 32.98 seconds
+Starting episode - 879
+Collected 8192 samples in 34.15 seconds
+Starting episode - 880
+Collected 8192 samples in 36.27 seconds
+[Episode 880] Eval...
+Greedy Eval: 722.32 ± 42.21
+Stochastic Eval: 678.48 ± 53.35
+Saving model...
+Model saved.
+Starting episode - 881
+Collected 8192 samples in 28.92 seconds
+Starting episode - 882
+Collected 8192 samples in 31.02 seconds
+Starting episode - 883
+Collected 8192 samples in 29.89 seconds
+Starting episode - 884
+Collected 8192 samples in 29.41 seconds
+Starting episode - 885
+Collected 8192 samples in 31.22 seconds
+Starting episode - 886
+Collected 8192 samples in 29.42 seconds
+Starting episode - 887
+Collected 8192 samples in 29.14 seconds
+Starting episode - 888
+Collected 8192 samples in 29.28 seconds
+Starting episode - 889
+Collected 8192 samples in 29.22 seconds
+Starting episode - 890
+Collected 8192 samples in 29.54 seconds
+[Episode 890] Eval...
+Greedy Eval: 728.73 ± 76.92
+Stochastic Eval: 725.47 ± 73.83
+Saving model...
+Model saved.
+Starting episode - 891
+Collected 8192 samples in 29.37 seconds
+Starting episode - 892
+Collected 8192 samples in 29.26 seconds
+Starting episode - 893
+Collected 8192 samples in 30.73 seconds
+Starting episode - 894
+Collected 8192 samples in 36.99 seconds
+Starting episode - 895
+Collected 8192 samples in 30.53 seconds
+Starting episode - 896
+Collected 8192 samples in 32.89 seconds
+Starting episode - 897
+Collected 8192 samples in 29.11 seconds
+Starting episode - 898
+Collected 8192 samples in 29.10 seconds
+Starting episode - 899
+Collected 8192 samples in 29.43 seconds
+Starting episode - 900
+Collected 8192 samples in 32.16 seconds
+[Episode 900] Eval...
+Greedy Eval: 749.92 ± 70.26
+Stochastic Eval: 618.96 ± 120.54
+Saving model...
+Model saved.
+Starting episode - 901
+Collected 8192 samples in 36.21 seconds
+Starting episode - 902
+Collected 8192 samples in 31.24 seconds
+Starting episode - 903
+Collected 8192 samples in 30.73 seconds
+Starting episode - 904
+Collected 8192 samples in 29.92 seconds
+Starting episode - 905
+Collected 8192 samples in 28.62 seconds
+Starting episode - 906
+Collected 8192 samples in 29.11 seconds
+Starting episode - 907
+Collected 8192 samples in 32.98 seconds
+Starting episode - 908
+Collected 8192 samples in 29.49 seconds
+Starting episode - 909
+Collected 8192 samples in 35.97 seconds
+Starting episode - 910
+Collected 8192 samples in 32.26 seconds
+[Episode 910] Eval...
+Greedy Eval: 750.48 ± 50.60
+Stochastic Eval: 735.54 ± 47.68
+Saving model...
+Model saved.
+Starting episode - 911
+Collected 8192 samples in 29.16 seconds
+Starting episode - 912
+Collected 8192 samples in 29.57 seconds
+Starting episode - 913
+Collected 8192 samples in 29.03 seconds
+Starting episode - 914
+Collected 8192 samples in 28.94 seconds
+Starting episode - 915
+Collected 8192 samples in 34.87 seconds
+Starting episode - 916
+Collected 8192 samples in 29.77 seconds
+Starting episode - 917
+Collected 8192 samples in 29.45 seconds
+Starting episode - 918
+Collected 8192 samples in 34.70 seconds
+Starting episode - 919
+Collected 8192 samples in 35.35 seconds
+Starting episode - 920
+Collected 8192 samples in 29.15 seconds
+[Episode 920] Eval...
+Greedy Eval: 640.64 ± 157.51
+Stochastic Eval: 696.87 ± 54.70
+Saving model...
+Model saved.
+Starting episode - 921
+Collected 8192 samples in 32.44 seconds
+Starting episode - 922
+Collected 8192 samples in 29.26 seconds
+Starting episode - 923
+Collected 8192 samples in 29.23 seconds
+Starting episode - 924
+Collected 8192 samples in 29.32 seconds
+Starting episode - 925
+Collected 8192 samples in 28.81 seconds
+Starting episode - 926
+Collected 8192 samples in 30.17 seconds
+Starting episode - 927
+Collected 8192 samples in 29.76 seconds
+Starting episode - 928
+Collected 8192 samples in 30.43 seconds
+Starting episode - 929
+Collected 8192 samples in 29.05 seconds
+Starting episode - 930
+Collected 8192 samples in 30.00 seconds
+[Episode 930] Eval...
+Greedy Eval: 734.44 ± 91.45
+Stochastic Eval: 683.04 ± 70.41
+Saving model...
+Model saved.
+Starting episode - 931
+Collected 8192 samples in 33.86 seconds
+Starting episode - 932
+Collected 8192 samples in 37.59 seconds
+Starting episode - 933
+Collected 8192 samples in 30.20 seconds
+Starting episode - 934
+Collected 8192 samples in 29.14 seconds
+Starting episode - 935
+Collected 8192 samples in 29.24 seconds
+Starting episode - 936
+Collected 8192 samples in 31.60 seconds
+Starting episode - 937
+Collected 8192 samples in 29.54 seconds
+Starting episode - 938
+Collected 8192 samples in 29.17 seconds
+Starting episode - 939
+Collected 8192 samples in 32.83 seconds
+Starting episode - 940
+Collected 8192 samples in 29.30 seconds
+[Episode 940] Eval...
+Greedy Eval: 746.84 ± 46.77
+Stochastic Eval: 730.15 ± 66.83
+Saving model...
+Model saved.
+Starting episode - 941
+Collected 8192 samples in 29.79 seconds
+Starting episode - 942
+Collected 8192 samples in 30.30 seconds
+Starting episode - 943
+Collected 8192 samples in 36.31 seconds
+Starting episode - 944
+Collected 8192 samples in 29.11 seconds
+Starting episode - 945
+Collected 8192 samples in 30.79 seconds
+Starting episode - 946
+Collected 8192 samples in 28.90 seconds
+Starting episode - 947
+Collected 8192 samples in 32.14 seconds
+Starting episode - 948
+Collected 8192 samples in 29.08 seconds
+Starting episode - 949
+Collected 8192 samples in 30.95 seconds
+Starting episode - 950
+Collected 8192 samples in 30.19 seconds
+[Episode 950] Eval...
+Greedy Eval: 749.17 ± 94.46
+Stochastic Eval: 719.26 ± 54.53
+Saving model...
+Model saved.
+Starting episode - 951
+Collected 8192 samples in 30.91 seconds
+Starting episode - 952
+Collected 8192 samples in 28.57 seconds
+Starting episode - 953
+Collected 8192 samples in 29.13 seconds
+Starting episode - 954
+Collected 8192 samples in 36.74 seconds
+Starting episode - 955
+Collected 8192 samples in 36.06 seconds
+Starting episode - 956
+Collected 8192 samples in 34.26 seconds
+Starting episode - 957
+Collected 8192 samples in 29.48 seconds
+Starting episode - 958
+Collected 8192 samples in 35.29 seconds
+Starting episode - 959
+Collected 8192 samples in 30.89 seconds
+Starting episode - 960
+Collected 8192 samples in 32.63 seconds
+[Episode 960] Eval...
+Greedy Eval: 765.02 ± 52.68
+Stochastic Eval: 691.07 ± 126.10
+Saving model...
+Model saved.
+Starting episode - 961
+Collected 8192 samples in 33.76 seconds
+Starting episode - 962
+Collected 8192 samples in 28.94 seconds
+Starting episode - 963
+Collected 8192 samples in 29.00 seconds
+Starting episode - 964
+Collected 8192 samples in 28.95 seconds
+Starting episode - 965
+Collected 8192 samples in 35.35 seconds
+Starting episode - 966
+Collected 8192 samples in 28.68 seconds
+Starting episode - 967
+Collected 8192 samples in 28.95 seconds
+Starting episode - 968
+Collected 8192 samples in 28.42 seconds
+Starting episode - 969
+Collected 8192 samples in 33.96 seconds
+Starting episode - 970
+Collected 8192 samples in 29.14 seconds
+[Episode 970] Eval...
+Greedy Eval: 726.80 ± 80.11
+Stochastic Eval: 755.70 ± 112.78
+Saving model...
+Model saved.
+Starting episode - 971
+Collected 8192 samples in 29.56 seconds
+Starting episode - 972
+Collected 8192 samples in 29.25 seconds
+Starting episode - 973
+Collected 8192 samples in 28.67 seconds
+Starting episode - 974
+Collected 8192 samples in 28.79 seconds
+Starting episode - 975
+Collected 8192 samples in 29.22 seconds
+Starting episode - 976
+Collected 8192 samples in 30.15 seconds
+Starting episode - 977
+Collected 8192 samples in 28.72 seconds
+Starting episode - 978
+Collected 8192 samples in 28.29 seconds
+Starting episode - 979
+Collected 8192 samples in 28.18 seconds
+Starting episode - 980
+Collected 8192 samples in 28.96 seconds
+[Episode 980] Eval...
+Greedy Eval: 751.79 ± 100.45
+Stochastic Eval: 681.95 ± 137.72
+Saving model...
+Model saved.
+Starting episode - 981
+Collected 8192 samples in 30.53 seconds
+Starting episode - 982
+Collected 8192 samples in 32.80 seconds
+Starting episode - 983
+Collected 8192 samples in 34.11 seconds
+Starting episode - 984
+Collected 8192 samples in 37.33 seconds
+Starting episode - 985
+Collected 8192 samples in 32.67 seconds
+Starting episode - 986
+Collected 8192 samples in 32.12 seconds
+Starting episode - 987
+Collected 8192 samples in 35.50 seconds
+Starting episode - 988
+Collected 8192 samples in 28.12 seconds
+Starting episode - 989
+Collected 8192 samples in 29.77 seconds
+Starting episode - 990
+Collected 8192 samples in 28.78 seconds
+[Episode 990] Eval...
+Greedy Eval: 673.38 ± 130.19
+Stochastic Eval: 719.61 ± 63.64
+Saving model...
+Model saved.
+Starting episode - 991
+Collected 8192 samples in 29.03 seconds
+Starting episode - 992
+Collected 8192 samples in 28.95 seconds
+Starting episode - 993
+Collected 8192 samples in 30.08 seconds
+Starting episode - 994
+Collected 8192 samples in 29.12 seconds
+Starting episode - 995
+Collected 8192 samples in 28.76 seconds
+Starting episode - 996
+Collected 8192 samples in 30.35 seconds
+Starting episode - 997
+Collected 8192 samples in 28.60 seconds
+Starting episode - 998
+Collected 8192 samples in 32.53 seconds
+Starting episode - 999
+Collected 8192 samples in 35.29 seconds
+Starting episode - 1000
+Collected 8192 samples in 35.09 seconds
+[Episode 1000] Eval...
+Greedy Eval: 708.53 ± 96.24
+Stochastic Eval: 644.65 ± 146.00
+Saving model...
+Model saved.

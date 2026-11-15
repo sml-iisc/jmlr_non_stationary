@@ -1,0 +1,9 @@
+{
+  "episodes": 10000,
+  "eval_episodes": 10,
+  "eval_interval": 10,
+  "seed": 0,
+  "threads": 1,
+  "depth": 2,
+  "trajectories": 10
+}

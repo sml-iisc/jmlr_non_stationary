@@ -1,0 +1,8 @@
+{
+  "temporal_tau_s": 30.0,
+  "spatial_hop_scale": 0.25,
+  "excitation_mass": 0.98,
+  "baseline_probability_scale": 0.1,
+  "initial_events_zero": true,
+  "initial_speed": "base"
+}

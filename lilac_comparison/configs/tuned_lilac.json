@@ -1,0 +1,4 @@
+{
+  "gamma": 0.995,
+  "entropy_fraction": 0.25
+}

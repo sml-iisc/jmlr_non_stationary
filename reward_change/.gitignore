@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+runs/
+smoke/
+smoke_figure/
+figure/
+figure_fresh/
